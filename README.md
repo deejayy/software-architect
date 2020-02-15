@@ -7,3 +7,5 @@ In phase 2, it should have a structure, a good start for everyone (hopefully), b
 In phase 3, it'll be an ultimate guideline on the topic "How to be a software architect"  
 
 Let's go.
+
+Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper written english :).
