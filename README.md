@@ -39,11 +39,31 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 [Episode 168: Being a Consultant](https://player.fm/series/software-engineering-radio/episode-168-being-a-consultant)  
 [Episode 166: Living Architectures with John Wiegand](https://player.fm/series/software-engineering-radio/episode-166-living-architectures-with-john-wiegand)  
 [Episode 153: Jan Bosch on Product Lines and Software Ecosystems](https://player.fm/series/software-engineering-radio/episode-153-jan-bosch-on-product-lines-and-software-ecosystems)  
+[Episode 149: Difference between Software Engineering and Computer Science with Chuck Connell](https://player.fm/series/software-engineering-radio/episode-149-difference-between-software-engineering-and-computer-science-with-chuck-connell)  
+[Episode 147: Software Development Manager](https://player.fm/series/software-engineering-radio/episode-147-software-development-manager)  
+[Episode 142: Sustainable Architecture with Kevlin Henney and Klaus Marquardt](https://player.fm/series/software-engineering-radio/episode-142-sustainable-architecture-with-kevlin-henney-and-klaus-marquardt)  
+[Episode 132: Top 10 Architecture Mistakes with Eoin Woods](https://player.fm/series/software-engineering-radio/episode-132-top-10-architecture-mistakes-with-eoin-woods)  
+[Episode 115: Architecture Analysis](https://player.fm/series/software-engineering-radio/episode-115-architecture-analysis)  
+[Episode 114: Christof Ebert on Requirements Engineering](https://player.fm/series/software-engineering-radio/episode-114-christof-ebert-on-requirements-engineering)  
+[Episode 112: Roles in Software Engineering II](https://player.fm/series/software-engineering-radio/episode-112-roles-in-software-engineering-ii)  
+[Episode 110: Roles in Software Engineering I](https://player.fm/series/software-engineering-radio/episode-110-roles-in-software-engineering-i)  
+[Episode 93: Lessons Learned From Architecture Reviews with Rebecca Wirfs-Brock](https://player.fm/series/software-engineering-radio/episode-93-lessons-learned-from-architecture-reviews-with-rebecca-wirfs-brock)  
+[Episode 90: Product Line Engineering, Pt. 3, with Charles Krueger](https://player.fm/series/software-engineering-radio/episode-90-product-line-engineering-pt-3-with-charles-krueger)  
+[Episode 58: Product Line Engineering Pt. 2](https://player.fm/series/software-engineering-radio/episode-58-product-line-engineering-pt-2)  
+[Episode 53: Product Line Engineering Pt. 1](https://player.fm/series/software-engineering-radio/episode-53-product-line-engineering-pt-1)  
+[Episode 74: Enterprise Architecture II](https://player.fm/series/software-engineering-radio/episode-74-enterprise-architecture-ii)  
+[Episode 64: Luke Hohmann on Architecture and Business](https://player.fm/series/software-engineering-radio/episode-64-luke-hohmann-on-architecture-and-business)  
+[Episode 41: Architecture Patterns (Architecture Pt. 4)](https://player.fm/series/software-engineering-radio/episode-41-architecture-patterns-architecture-pt-4)  
+[Episode 30: Architecture Pt.3](https://player.fm/series/software-engineering-radio/episode-30-architecture-pt3)  
+[Episode 25: Architecture Pt. 2](https://player.fm/series/software-engineering-radio/episode-25-architecture-pt-2)  
+[Episode 23: Architecture Pt. 1](https://player.fm/series/software-engineering-radio/episode-23-architecture-pt-1)  
+[Episode 34: Enterprise Architecture](https://player.fm/series/software-engineering-radio/episode-34-enterprise-architecture)  
 
 
 ## Ideas, technologies, seeds for a google search
 
 - microservices
+- soa
 - monoliths
 - serverless
 - docker
@@ -52,12 +72,14 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 - aws
 - distributed (systems | databases | coordination)
 - ACID
+- transactions
 - machine learning
 - neural networks
 - logging
 - security
 - OWASP
 - devsecops
+- checkmarx, osa, sast
 - authentication
 - agile
 - release management
@@ -71,6 +93,7 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 - networking
 - HTTP 1, 2, 3, QUIC
 - REST
+- API design (public, private)
 - CRUD
 - frontend frameworks (and how to build them from scratch)
 - backend frameworks
@@ -105,6 +128,7 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 - geodns
 - autoscaling backend services
 - CI/CD
+- incremental release
 - data visualization
 - data science
 - edge computing
@@ -127,6 +151,7 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 - caching techniques, tools and cache invalidation
 - naming things
 - coding guidelines (styling, linting)
+- static code analysis, sonarqube
 - code review
 - estimation
 - service discovery
@@ -146,6 +171,16 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 - storage technologies
 - backup strategies
 - oop, aop
+- functional programming
+- IDE
+- ORM
+- MVC, MVVM
+- semantic web
+- fault tolerance
+- websockets
+- webgl
+- embedded systems
+- statically vs dynamically typed languages
 - 
 
 ## Books
