@@ -26,6 +26,7 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 [Episode 346: Stephan Ewen on Streaming Architecture](https://player.fm/series/software-engineering-radio/se-radio-episode-346-stephan-ewen-on-streaming-architecture)  
 [Episode 333: Marian Petre and André van der Hoek on Software Design](https://player.fm/series/software-engineering-radio/se-radio-episode-333-marian-petre-and-andre-van-der-hoek-on-software-design)  
 [Episode 317: Travis Kimmel on Measuring Software Engineering Productivity](https://player.fm/series/software-engineering-radio/se-radio-episode-317-travis-kimmel-on-measuring-software-engineering-productivity)  
+[Episode 308: Gregor Hohpe on It Architecture and IT Transformation](https://player.fm/series/software-engineering-radio/se-radio-episode-308-gregor-hohpe-on-it-architecture-and-it-transformation)  
 
 
 ## Ideas, technologies, seeds for a google search
@@ -42,8 +43,9 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 - neural networks
 - logging
 - security
-- authentication
 - OWASP
+- devsecops
+- authentication
 - agile
 - release management
 - testing
@@ -54,7 +56,7 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 - networking
 - REST
 - CRUD
-- frontend frameworks
+- frontend frameworks (and how to build them from scratch)
 - backend frameworks
 - design patterns
 - antipatterns in software development
@@ -86,6 +88,7 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 - autoscaling backend services
 - CI/CD
 - data visualization
+- data science
 - edge computing
 - SLA
 - accessibility
@@ -93,6 +96,16 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 - webassembly
 - electron, node-webkit, webview
 - encryption
+- devops
+- internet of things
+- performance and tuning
+- UML
+- documenting architecture
+- pipes & filter
+- mobile apps
+- blockchain
+- llvm
+- itil
 - 
 
 ## Books
