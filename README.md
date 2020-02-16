@@ -181,6 +181,7 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 - webgl
 - embedded systems
 - statically vs dynamically typed languages
+- nocode
 
 ## Books
 
