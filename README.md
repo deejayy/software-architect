@@ -23,6 +23,9 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 [Episode 374: Marcus Blankenship on Motivating Programmers](https://player.fm/series/software-engineering-radio/episode-374-marcus-blankenship-on-motivating-programmers)  
 [Episode 368: Bryan Helmig on Managing Distributed Teams](https://player.fm/series/software-engineering-radio/episode-368-bryan-helmig-on-managing-distributed-teams)  
 [Episode 355: Randy Shoup Scaling Technology and Organization](https://player.fm/series/software-engineering-radio/se-radio-episode-355-randy-shoup-scaling-technology-and-organization)  
+[Episode 346: Stephan Ewen on Streaming Architecture](https://player.fm/series/software-engineering-radio/se-radio-episode-346-stephan-ewen-on-streaming-architecture)  
+[Episode 333: Marian Petre and André van der Hoek on Software Design](https://player.fm/series/software-engineering-radio/se-radio-episode-333-marian-petre-and-andre-van-der-hoek-on-software-design)  
+[Episode 317: Travis Kimmel on Measuring Software Engineering Productivity](https://player.fm/series/software-engineering-radio/se-radio-episode-317-travis-kimmel-on-measuring-software-engineering-productivity)  
 
 
 ## Ideas, technologies, seeds for a google search
@@ -63,6 +66,8 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 - data structures
 - sql
 - nosql
+- distributed databases
+- cloud databases
 - streams
 - message queues
 - hadoop
@@ -74,6 +79,21 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 - service mesh
 - software architecture patterns
 - (enterprise | solution | software) architect
+- hackerrank
+- load balancing
+- cdn
+- geodns
+- autoscaling backend services
+- CI/CD
+- data visualization
+- edge computing
+- SLA
+- accessibility
+- chaos engineering
+- webassembly
+- electron, node-webkit, webview
+- encryption
+- 
 
 ## Books
 
@@ -82,4 +102,5 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 - makes decisions on things which are expensive to change later
 - plans everything what the client not asked specifically but necessary for the product (non-functional requirements)
 - is not always there but an architecture is
+- shouldn't be always the best developer (who is tend to keep the hard problems for itself)
 - 
