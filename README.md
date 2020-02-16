@@ -81,6 +81,10 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 [17: Maximizing Your Conference Experience](https://player.fm/series/series-1401837/17-adam-culp-maximizing-your-conference-experience)  
 [9: Architecture, Patterns and Design](https://player.fm/series/series-1401837/9-david-heinemeier-hansson-architecture-patterns-and-design)  
 [5: Jobs-to-be-Done and Product Design](https://player.fm/series/series-1401837/5-ryan-singer-jobs-to-be-done-and-product-design)  
+Designing Data-Intensive Applications: [Reliability](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/designing-data-intensive-applications-reliability), [Scalability](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/designing-data-intensive-applications-scalability), [Maintainability](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/designing-data-intensive-applications-maintainability), Data models: [Relational vs Document](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/designing-data-intensive-applications-data-models-relational-vs-document), [Relationships](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/designing-data-intensive-applications-data-models-relationships), [Query Languages](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/designing-data-intensive-applications-data-models-query-languages)  
+[The Pragmatic Programmer – Investing in Your Knowledge Portfolio](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/the-pragmatic-programmer-philosophy)  
+[What Should You Learn Next?](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/ep-101-what-should-you-learn-next)  
+
 
 ## Ideas, technologies, seeds for a google search
 
@@ -88,6 +92,7 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 - soa
 - monoliths
 - serverless
+- multi-tier applications
 - docker
 - kubernetes
 - virtualization
@@ -213,6 +218,7 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 - regular expressions
 - formal languages
 - SPA
+- PWA
 - application state management
 - CSS frameworks
 - event sourcing
