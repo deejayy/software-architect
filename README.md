@@ -41,7 +41,14 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 - testing
 - pair programming
 - extreme programming
-- * driver development
+- \* driver development
 - webrtc
 - networking
+- REST
+- CRUD
+- frontend frameworks
+- backend frameworks
+- design patterns
+- antipatterns in software development
+- clean code and refactoring
 - 
