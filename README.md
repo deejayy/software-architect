@@ -87,6 +87,11 @@ Designing Data-Intensive Applications: [Reliability](https://player.fm/series/co
 [Tackling Tough Developer Questions](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/ep-100-tackling-tough-developer-questions)  
 [How to Learn Programming Skills](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/ep-91-how-to-learn-programming-skills)  
 [Programmer Strengths and Weaknesses](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/ep-82-programmer-strengths-and-weaknesses)  
+[Software Design Anti-patterns](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/episode-65-software-design-anti-patterns)  
+[Why Domain Driven Design](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/episode-58-why-domain-driven-design)  
+[How to be an Advanced Programmer](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/episode-40-how-to-be-an-advanced-programmer)  
+[Delegate all the things!](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/episode-24-delegate-all-the-things)  
+[What programmer do you want to be?](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/episode-12-what-do-you-want-to-be-when-you-grow-up-define-me)  
 
 
 ## Ideas, technologies, seeds for a google search
