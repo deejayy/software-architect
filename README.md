@@ -31,6 +31,14 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 [Episode 265: Pat Kua on Becoming a Tech Lead](https://player.fm/series/software-engineering-radio/se-radio-episode-265-pat-kua-on-becoming-a-tech-lead)  
 [Episode 250: Jürgen Laartz and Alexander Budzier on Why Large IT Projects Fail](https://player.fm/series/software-engineering-radio/se-radio-epislode-250-jrgen-laartz-and-alexander-budzier-on-why-large-it-projects-fail)  
 [Episode 245: John Sonmez on Marketing Yourself and Managing Your Career](https://player.fm/series/software-engineering-radio/se-radio-episode-245-john-sonmez-on-marketing-yourself-and-managing-your-career)  
+[Episode 236: Rebecca Parsons on Evolutionary Architecture](https://player.fm/series/software-engineering-radio/se-radio-episode-236-rebecca-parsons-on-evolutionary-architecture)  
+[Episode 234: Barry O’Reilly on Lean Enterprise](https://player.fm/series/software-engineering-radio/se-radio-episode-234-barry-oreilly-on-lean-enterprise)  
+[Episode 228: Software Architecture Sketches with Simon Brown](https://player.fm/series/software-engineering-radio/episode-228-software-architecture-sketches-with-simon-brown)  
+[Episode 208: Randy Shoup on Hiring in the Software Industry](https://player.fm/series/software-engineering-radio/episode-208-randy-shoup-on-hiring-in-the-software-industry)  
+[Episode 170: Large Agile Software Development with Bas Vodde](https://player.fm/series/software-engineering-radio/episode-170-large-agile-software-development-with-bas-vodde)  
+[Episode 168: Being a Consultant](https://player.fm/series/software-engineering-radio/episode-168-being-a-consultant)  
+[Episode 166: Living Architectures with John Wiegand](https://player.fm/series/software-engineering-radio/episode-166-living-architectures-with-john-wiegand)  
+[Episode 153: Jan Bosch on Product Lines and Software Ecosystems](https://player.fm/series/software-engineering-radio/episode-153-jan-bosch-on-product-lines-and-software-ecosystems)  
 
 
 ## Ideas, technologies, seeds for a google search
@@ -42,7 +50,7 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 - kubernetes
 - virtualization
 - aws
-- distributed (systems | databases)
+- distributed (systems | databases | coordination)
 - ACID
 - machine learning
 - neural networks
@@ -61,6 +69,7 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 - \* driver development
 - webrtc
 - networking
+- HTTP 1, 2, 3, QUIC
 - REST
 - CRUD
 - frontend frameworks (and how to build them from scratch)
@@ -69,12 +78,14 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 - antipatterns in software development
 - software quality
 - clean code and refactoring
+- technical debt
 - user experience
 - a/b testing
 - bugs and debugging
 - handling defects
 - data structures
 - sql
+- database replication
 - nosql
 - cloud databases
 - streams
@@ -84,7 +95,7 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 - modularization
 - software architecture in sync with organization structure
 - Compiled vs interpreted languages
-- legacy code
+- legacy (code | systems)
 - service mesh
 - software architecture patterns
 - (enterprise | solution | software) architect
@@ -113,7 +124,7 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 - blockchain
 - llvm
 - itil
-- cache invalidation
+- caching techniques, tools and cache invalidation
 - naming things
 - coding guidelines (styling, linting)
 - code review
@@ -122,6 +133,20 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 - software disenchantment
 - openstack
 - \* aaS
+- apache mesosphere
+- semantic versioning
+- npm
+- git
+- disaster recovery plan
+- workflow management
+- graph databases
+- mooc
+- rfc
+- quantum computing
+- storage technologies
+- backup strategies
+- oop, aop
+- 
 
 ## Books
 
