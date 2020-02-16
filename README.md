@@ -92,7 +92,11 @@ Designing Data-Intensive Applications: [Reliability](https://player.fm/series/co
 [How to be an Advanced Programmer](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/episode-40-how-to-be-an-advanced-programmer)  
 [Delegate all the things!](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/episode-24-delegate-all-the-things)  
 [What programmer do you want to be?](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/episode-12-what-do-you-want-to-be-when-you-grow-up-define-me)  
-
+[Technical Leadership, Cultivating Culture, and Career Growth](https://player.fm/series/the-infoq-podcast/pat-kua-on-technical-leadership-cultivating-culture-and-career-growth)  
+[Role of the Software Architect in a Continuous Delivery Environment](https://player.fm/series/the-infoq-podcast/simon-brown-on-the-role-of-the-software-architect-in-a-continuous-delivery-environment)  
+[Architecting to Avoid and Recover from Failure](https://player.fm/series/the-infoq-podcast/interview-oliver-gould)  
+[Unlocking the "Secret Sauce" of Great Teams](https://player.fm/series/the-infoq-podcast/gilt-vp-heather-fleming-on-unlocking-the-secret-sauce-of-great-teams)  
+[Architecture and Rapid Growth](https://player.fm/series/the-infoq-podcast/ubers-chief-systems-architect-on-their-architecture-and-rapid-growth)  
 
 ## Ideas, technologies, seeds for a google search
 
@@ -109,6 +113,8 @@ Designing Data-Intensive Applications: [Reliability](https://player.fm/series/co
 - ACID
 - transactions
 - machine learning
+- tensorflow
+- computer vision
 - neural networks
 - logging
 - security
@@ -117,6 +123,7 @@ Designing Data-Intensive Applications: [Reliability](https://player.fm/series/co
 - checkmarx, osa, sast
 - authentication
 - agile
+- SRE
 - release management
 - product iteration (PI) planning
 - testing
@@ -142,6 +149,7 @@ Designing Data-Intensive Applications: [Reliability](https://player.fm/series/co
 - a/b testing
 - bugs and debugging
 - handling defects
+- incident response
 - data structures: arrays, trees, heaps, tries, hashtable, dictionary, primitives
 - sql
 - database replication
@@ -236,7 +244,6 @@ Designing Data-Intensive Applications: [Reliability](https://player.fm/series/co
 - CMS
 - bootstrap
 - algorithmic complexity
-- 
 
 ## Books
 
