@@ -84,6 +84,9 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 Designing Data-Intensive Applications: [Reliability](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/designing-data-intensive-applications-reliability), [Scalability](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/designing-data-intensive-applications-scalability), [Maintainability](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/designing-data-intensive-applications-maintainability), Data models: [Relational vs Document](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/designing-data-intensive-applications-data-models-relational-vs-document), [Relationships](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/designing-data-intensive-applications-data-models-relationships), [Query Languages](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/designing-data-intensive-applications-data-models-query-languages)  
 [The Pragmatic Programmer – Investing in Your Knowledge Portfolio](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/the-pragmatic-programmer-philosophy)  
 [What Should You Learn Next?](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/ep-101-what-should-you-learn-next)  
+[Tackling Tough Developer Questions](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/ep-100-tackling-tough-developer-questions)  
+[How to Learn Programming Skills](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/ep-91-how-to-learn-programming-skills)  
+[Programmer Strengths and Weaknesses](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/ep-82-programmer-strengths-and-weaknesses)  
 
 
 ## Ideas, technologies, seeds for a google search
@@ -96,7 +99,7 @@ Designing Data-Intensive Applications: [Reliability](https://player.fm/series/co
 - docker
 - kubernetes
 - virtualization
-- aws
+- aws, azure, google cloud
 - distributed (systems | databases | coordination)
 - ACID
 - transactions
@@ -134,7 +137,7 @@ Designing Data-Intensive Applications: [Reliability](https://player.fm/series/co
 - a/b testing
 - bugs and debugging
 - handling defects
-- data structures
+- data structures: arrays, trees, heaps, tries, hashtable, dictionary, primitives
 - sql
 - database replication
 - nosql
@@ -191,6 +194,7 @@ Designing Data-Intensive Applications: [Reliability](https://player.fm/series/co
 - semantic versioning
 - npm
 - git
+- git workflows
 - disaster recovery plan
 - workflow management
 - graph databases
@@ -226,6 +230,8 @@ Designing Data-Intensive Applications: [Reliability](https://player.fm/series/co
 - online payment solutions
 - CMS
 - bootstrap
+- algorithmic complexity
+- 
 
 ## Books
 
