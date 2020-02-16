@@ -27,17 +27,22 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 [Episode 333: Marian Petre and André van der Hoek on Software Design](https://player.fm/series/software-engineering-radio/se-radio-episode-333-marian-petre-and-andre-van-der-hoek-on-software-design)  
 [Episode 317: Travis Kimmel on Measuring Software Engineering Productivity](https://player.fm/series/software-engineering-radio/se-radio-episode-317-travis-kimmel-on-measuring-software-engineering-productivity)  
 [Episode 308: Gregor Hohpe on It Architecture and IT Transformation](https://player.fm/series/software-engineering-radio/se-radio-episode-308-gregor-hohpe-on-it-architecture-and-it-transformation)  
+[Episode 281: James Whittaker on Career Strategy](https://player.fm/series/software-engineering-radio/se-radio-episode-281-james-whittaker-on-career-strategy)  
+[Episode 265: Pat Kua on Becoming a Tech Lead](https://player.fm/series/software-engineering-radio/se-radio-episode-265-pat-kua-on-becoming-a-tech-lead)  
+[Episode 250: Jürgen Laartz and Alexander Budzier on Why Large IT Projects Fail](https://player.fm/series/software-engineering-radio/se-radio-epislode-250-jrgen-laartz-and-alexander-budzier-on-why-large-it-projects-fail)  
+[Episode 245: John Sonmez on Marketing Yourself and Managing Your Career](https://player.fm/series/software-engineering-radio/se-radio-episode-245-john-sonmez-on-marketing-yourself-and-managing-your-career)  
 
 
 ## Ideas, technologies, seeds for a google search
 
 - microservices
+- monoliths
 - serverless
 - docker
 - kubernetes
 - virtualization
 - aws
-- distributed databases
+- distributed (systems | databases)
 - ACID
 - machine learning
 - neural networks
@@ -49,8 +54,10 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 - agile
 - release management
 - testing
+- quality assurance
 - pair programming
 - extreme programming
+- code retreat
 - \* driver development
 - webrtc
 - networking
@@ -60,6 +67,7 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 - backend frameworks
 - design patterns
 - antipatterns in software development
+- software quality
 - clean code and refactoring
 - user experience
 - a/b testing
@@ -68,7 +76,6 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 - data structures
 - sql
 - nosql
-- distributed databases
 - cloud databases
 - streams
 - message queues
@@ -106,7 +113,15 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 - blockchain
 - llvm
 - itil
-- 
+- cache invalidation
+- naming things
+- coding guidelines (styling, linting)
+- code review
+- estimation
+- service discovery
+- software disenchantment
+- openstack
+- \* aaS
 
 ## Books
 
