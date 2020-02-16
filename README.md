@@ -48,7 +48,7 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 [Episode 112: Roles in Software Engineering II](https://player.fm/series/software-engineering-radio/episode-112-roles-in-software-engineering-ii)  
 [Episode 110: Roles in Software Engineering I](https://player.fm/series/software-engineering-radio/episode-110-roles-in-software-engineering-i)  
 [Episode 93: Lessons Learned From Architecture Reviews](https://player.fm/series/software-engineering-radio/episode-93-lessons-learned-from-architecture-reviews-with-rebecca-wirfs-brock)  
-[Episode 90: Product Line Engineering, Pt. 3](https://player.fm/series/software-engineering-radio/episode-90-product-line-engineering-pt-3-with-charles-krueger)  
+[Episode 90: Product Line Engineering Pt. 3](https://player.fm/series/software-engineering-radio/episode-90-product-line-engineering-pt-3-with-charles-krueger)  
 [Episode 58: Product Line Engineering Pt. 2](https://player.fm/series/software-engineering-radio/episode-58-product-line-engineering-pt-2)  
 [Episode 53: Product Line Engineering Pt. 1](https://player.fm/series/software-engineering-radio/episode-53-product-line-engineering-pt-1)  
 [Episode 74: Enterprise Architecture II](https://player.fm/series/software-engineering-radio/episode-74-enterprise-architecture-ii)  
