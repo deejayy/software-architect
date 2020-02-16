@@ -58,6 +58,29 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 [Episode 30: Architecture Pt. 3](https://player.fm/series/software-engineering-radio/episode-30-architecture-pt3)  
 [Episode 25: Architecture Pt. 2](https://player.fm/series/software-engineering-radio/episode-25-architecture-pt-2)  
 [Episode 23: Architecture Pt. 1](https://player.fm/series/software-engineering-radio/episode-23-architecture-pt-1)  
+[49. Building Effective Distributed Teams](https://player.fm/series/codeish/ep-49-building-effective-distributed-teams)  
+[47. Working with an Event-Driven Architecture](https://player.fm/series/codeish/ep-47-working-with-an-event-driven-architecture)  
+[42. How to Prepare for Coding Interviews](https://player.fm/series/codeish/ep-42-how-to-prepare-for-coding-interviews)  
+[41. Architecting Multi-Tenancy](https://player.fm/series/codeish/ep-41-architecting-multi-tenancy)  
+[39. Evolving Alongside your Tech Stack](https://player.fm/series/codeish/ep-39-evolving-alongside-your-tech-stack)  
+[28. Effective Leadership Development](https://player.fm/series/codeish/ep-28-effective-leadership-development)  
+[24. Side Projects for Fun and (not necessarily) Profit](https://player.fm/series/codeish/ep-24-side-projects-for-fun-and-not-necessarily-profit)  
+[20. Becoming a Junior Developer](https://player.fm/series/codeish/ep-20-becoming-a-junior-developer)  
+[15. Pursuing a Career in Tech](https://player.fm/series/codeish/ep-15-pursuing-a-career-in-tech)  
+[10. How to Learn Something New](https://player.fm/series/codeish/ep-10-how-to-learn-something-new)  
+[9. Coordinating Remote Work](https://player.fm/series/codeish/ep-9-coordinating-remote-work)  
+[125: Choosing the Right Product Idea](https://player.fm/series/series-1401837/ep-125-rob-walling-choosing-the-right-product-idea)  
+[105: Strength Training for Nerds](https://player.fm/series/series-1401837/ep-105-strength-training-for-nerds)  
+[91: Designing a Calmer Team Communication Platform](https://player.fm/series/series-1401837/ep-91-derrick-reimer-designing-a-calmer-team-communication-platform)  
+[56: Getting Things Done and Building Your Own Tools](https://player.fm/series/series-1401837/56-wes-bos-getting-things-done-and-building-your-own-tools)  
+[42: Marketing for Developers](https://player.fm/series/series-1401837/42-justin-jackson-marketing-for-developers)  
+[31: #NoEstimates](https://player.fm/series/series-1401837/31-woody-zuill-noestimates)  
+[26: What do you need when you launch?](https://player.fm/series/series-1401837/26-josh-pigford-what-do-you-need-when-you-launch)  
+[25: Tips and tricks to make your code awesome](https://player.fm/series/series-1401837/25-matt-machuga-tips-and-tricks-to-make-your-code-awesome)  
+[20: Code is not a business](https://player.fm/series/series-1401837/20-ian-landsman-code-is-not-a-business)  
+[17: Maximizing Your Conference Experience](https://player.fm/series/series-1401837/17-adam-culp-maximizing-your-conference-experience)  
+[9: Architecture, Patterns and Design](https://player.fm/series/series-1401837/9-david-heinemeier-hansson-architecture-patterns-and-design)  
+[5: Jobs-to-be-Done and Product Design](https://player.fm/series/series-1401837/5-ryan-singer-jobs-to-be-done-and-product-design)  
 
 ## Ideas, technologies, seeds for a google search
 
@@ -110,6 +133,7 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 - sql
 - database replication
 - nosql
+- graphql
 - cloud databases
 - streams
 - message queues
@@ -182,12 +206,29 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 - embedded systems
 - statically vs dynamically typed languages
 - nocode
+- web components
+- UI design systems
+- chatbots
+- voice UI
+- regular expressions
+- formal languages
+- SPA
+- application state management
+- CSS frameworks
+- event sourcing
+- timezones
+- online payment solutions
+- CMS
+- bootstrap
 
 ## Books
+
+## Conferences
 
 ## One-liners: The architect ...
 
 - makes decisions on things which are expensive to change later
 - plans everything what the client not asked specifically but necessary for the product (non-functional requirements)
 - is not always there but an architecture is
-- shouldn't be always the best developer (who is tend to keep the hard problems for itself)
+- shouldn't be always the best developer (who is tend to keep the hard problems for themself)
+- should code in a daily basis
