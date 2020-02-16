@@ -59,7 +59,6 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 [Episode 23: Architecture Pt. 1](https://player.fm/series/software-engineering-radio/episode-23-architecture-pt-1)  
 [Episode 34: Enterprise Architecture](https://player.fm/series/software-engineering-radio/episode-34-enterprise-architecture)  
 
-
 ## Ideas, technologies, seeds for a google search
 
 - microservices
@@ -83,6 +82,7 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 - authentication
 - agile
 - release management
+- product iteration (PI) planning
 - testing
 - quality assurance
 - pair programming
@@ -176,12 +176,11 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 - ORM
 - MVC, MVVM
 - semantic web
-- fault tolerance
+- fault tolerance and error handling
 - websockets
 - webgl
 - embedded systems
 - statically vs dynamically typed languages
-- 
 
 ## Books
 
@@ -191,4 +190,3 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 - plans everything what the client not asked specifically but necessary for the product (non-functional requirements)
 - is not always there but an architecture is
 - shouldn't be always the best developer (who is tend to keep the hard problems for itself)
-- 
