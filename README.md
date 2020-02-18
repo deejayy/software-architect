@@ -100,150 +100,184 @@ Designing Data-Intensive Applications: [Reliability](https://player.fm/series/co
 
 ## Ideas, technologies, seeds for a google search
 
-- microservices
-- soa
-- monoliths
-- serverless
-- multi-tier applications
-- docker
-- kubernetes
-- virtualization
-- aws, azure, google cloud
+### Architecture
+
+- (enterprise | solution | software) architect
+- everything driven development
+- caching techniques, tools and cache invalidation
+- chaos engineering
 - distributed (systems | databases | coordination)
-- ACID
-- transactions
-- machine learning
-- tensorflow
-- computer vision
-- neural networks
-- logging
-- security
-- OWASP
-- devsecops
-- checkmarx, osa, sast
-- authentication
-- agile
-- SRE
-- release management
-- product iteration (PI) planning
-- testing
-- quality assurance
-- pair programming
-- extreme programming
-- code retreat
-- \* driver development
-- webrtc
-- networking
-- HTTP 1, 2, 3, QUIC
-- REST
-- API design (public, private)
-- CRUD
-- frontend frameworks (and how to build them from scratch)
-- backend frameworks
-- design patterns
-- antipatterns in software development
-- software quality
-- clean code and refactoring
+- documenting architecture
+- fault tolerance and error handling
+- legacy (code | systems)
+- modularization
+- mooc
+- multi-tier applications
+- performance and tuning
+- pipes & filter
+- rfc
+- semantic versioning
+- software architecture in sync with organization structure
+- software architecture patterns
 - technical debt
-- user experience
-- a/b testing
-- bugs and debugging
+- timezones
+- UML
+
+### Process
+
+- agile
+- disaster recovery plan
+- estimation
 - handling defects
 - incident response
-- data structures: arrays, trees, heaps, tries, hashtable, dictionary, primitives
-- sql
-- database replication
-- nosql
-- graphql
-- cloud databases
-- streams
-- message queues
-- hadoop
-- Imperative vs Declarative Programming
-- modularization
-- software architecture in sync with organization structure
-- Compiled vs interpreted languages
-- legacy (code | systems)
-- service mesh
-- software architecture patterns
-- (enterprise | solution | software) architect
-- hackerrank
-- load balancing
-- cdn
-- geodns
-- autoscaling backend services
-- CI/CD
 - incremental release
-- data visualization
-- data science
-- edge computing
-- SLA
-- accessibility
-- chaos engineering
-- webassembly
-- electron, node-webkit, webview
-- encryption
-- devops
-- internet of things
-- performance and tuning
-- UML
-- documenting architecture
-- pipes & filter
-- mobile apps
-- blockchain
-- llvm
 - itil
-- caching techniques, tools and cache invalidation
-- naming things
-- coding guidelines (styling, linting)
-- static code analysis, sonarqube
-- code review
-- estimation
-- service discovery
-- software disenchantment
-- openstack
-- \* aaS
+- product iteration (PI) planning
+- release management
+- SLA
+- workflow management
+
+### Quality Assurance
+
+- automatic testing
+
+### Security
+
+- authentication
+- checkmarx, osa, sast
+- devsecops
+- encryption
+- OWASP
+- security
+
+### DevOps
+
 - apache mesosphere
-- semantic versioning
-- npm
+- backup strategies
+- CI/CD
+- devops
+- docker
+- edge computing
+- geodns
+- kubernetes
+- load balancing
+- logging
+- networking
+- service discovery
+- SRE
+- static code analysis, sonarqube
+- storage technologies
+- virtualization
+
+### Cloud technologies
+
+- \* aaS
+- aws, azure, google cloud
+- openstack
+- serverless
+
+### AI
+
+- chatbots
+- computer vision
+- machine learning
+- neural networks
+- tensorflow
+
+### Misc
+
+- blockchain
+
+### Databases
+
+- ACID
+- cloud databases
+- data science
+- data visualization
+- database replication
+- graph databases
+- graphql
+- hadoop
+- nosql
+- sql
+- transactions
+
+### General software development
+
+- algorithmic complexity
+- antipatterns in software development
+- application state management
+- bugs and debugging
+- clean code and refactoring
+- code retreat
+- code review
+- coding guidelines (styling, linting)
+- Compiled vs interpreted languages
+- data structures: arrays, trees, heaps, tries, hashtable, dictionary, primitives
+- design patterns
+- event sourcing
+- extreme programming
+- formal languages
+- functional programming
 - git
 - git workflows
-- disaster recovery plan
-- workflow management
-- graph databases
-- mooc
-- rfc
-- quantum computing
-- storage technologies
-- backup strategies
-- oop, aop
-- functional programming
+- hackerrank
 - IDE
-- ORM
+- Imperative vs Declarative Programming
+- llvm
+- mobile apps
 - MVC, MVVM
-- semantic web
-- fault tolerance and error handling
-- websockets
-- webgl
-- embedded systems
-- statically vs dynamically typed languages
+- naming things
 - nocode
-- web components
-- UI design systems
-- chatbots
-- voice UI
-- regular expressions
-- formal languages
-- SPA
-- PWA
-- application state management
-- CSS frameworks
-- event sourcing
-- timezones
+- npm
 - online payment solutions
-- CMS
+- oop, aop
+- ORM
+- pair programming
+- quantum computing
+- regular expressions
+- software disenchantment
+- software quality
+- statically vs dynamically typed languages
+- streams
+- websockets
+
+### Backend developmemnt
+
+- API design (public, private)
+- autoscaling backend services
+- backend frameworks
+- CRUD
+- embedded systems
+- internet of things
+- message queues
+- microservices
+- monoliths
+- REST
+- service mesh
+- soa
+
+### Frontend developmemnt
+
+- a/b testing
+- accessibility
 - bootstrap
-- algorithmic complexity
+- cdn
+- CMS
+- CSS frameworks
+- electron, node-webkit, webview
+- frontend frameworks (and how to build them from scratch)
+- HTTP 1, 2, 3, QUIC
+- PWA
+- semantic web
+- SPA
+- UI design systems
+- user experience
+- voice UI
+- web components
+- webassembly
+- webgl
+- webrtc
 
 ## Books
 
