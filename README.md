@@ -290,3 +290,4 @@ Designing Data-Intensive Applications: [Reliability](https://player.fm/series/co
 - is not always there but an architecture is
 - shouldn't be always the best developer (who is tend to keep the hard problems for themself)
 - should code in a daily basis
+
