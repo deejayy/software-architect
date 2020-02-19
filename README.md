@@ -309,6 +309,15 @@ https://www.leanix.net/en/enterprise-architecture
 https://www.infoworld.com/article/2988671/architecture-principles-considered-harmful.html  
 https://ea.rna.nl/2015/03/08/losing-a-limpet-what-happens-when-we-dont-have-enterprise-architecture/  
 https://ea.rna.nl/2017/01/13/agile-architecture/  
+https://blog.codinghorror.com/so-you-dont-want-to-be-a-programmer-after-all/  
+https://blog.ndepend.com/mentoring-software-developers/  
+https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/  
+https://blog.ndepend.com/code-reuse-not-good-goal/  
+https://blog.ndepend.com/secrets-maintainable-code-codebases/  
+https://blog.ndepend.com/code-quality-metrics-signal-noise/  
+https://www.ndepend.com/docs/code-metrics  
+https://blog.ndepend.com/5-tips-help-visualize-code/  
+https://blog.ndepend.com/with-code-metrics-trends-are-king/  
 
 ## One-liners: The architect ...
 
