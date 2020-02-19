@@ -1,4 +1,4 @@
-# THE ROLE OF A SOFTWARE ARCHITECT
+# The role of a software architect
 
 (original article: https://apiumhub.com/tech-blog-barcelona/role-of-a-software-architect/)
 
