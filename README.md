@@ -296,6 +296,14 @@ Designing Data-Intensive Applications: [Reliability](https://player.fm/series/co
 
 ## Links
 
+https://apiumhub.com/tech-blog-barcelona/user-interface-testing/
+https://apiumhub.com/tech-blog-barcelona/microservices-vs-monolithic-architecture/
+https://apiumhub.com/tech-blog-barcelona/almost-infinite-scalability/
+https://apiumhub.com/tech-blog-barcelona/importance-good-software-architecture/
+https://apiumhub.com/tech-blog-barcelona/importance-of-soft-skills/
+https://apiumhub.com/tech-blog-barcelona/software-architecture-books/
+https://apiumhub.com/tech-blog-barcelona/benefits-of-software-architecture/
+
 ## One-liners: The architect ...
 
 - makes decisions on things which are expensive to change later
@@ -345,6 +353,7 @@ Designing Data-Intensive Applications: [Reliability](https://player.fm/series/co
 > Practitioners of enterprise architecture, enterprise architects, are responsible for performing the analysis of business structure and processes and are often called upon to draw conclusions from the information collected to address the goals of enterprise architecture: effectiveness, efficiency, agility, and continuity of complex business operations.
 
 [Technical Architect vs Solution Architect vs Enterprise Architect: What’s the Difference?](architecture/architect-roles/technical-architect-vs-solution-architect-vs-enterprise-architect.md)  
+[The role of a software architect](architecture/architect-roles/role-of-a-software-architect.md)  
 [Enterprise Architect vs. Solution Architect](https://www.leanix.net/en/blog/enterprise-architect-vs-solution-architect-whats-the-difference)  
 [Enterprise Architects vs Solution Architects vs Domain Architects](https://www.visual-paradigm.com/guide/enterprise-architecture/enterprise-architects-vs-solution-architects-vs-domain-architects/)  
 [Bridging the Gap Between Enterprise Architecture and Solution Architecture for Maximum Benefit](https://www.oracle.com/technical-resources/articles/enterprise-architecture/ricca-bridging-ea-sa.html)  
@@ -352,7 +361,6 @@ Designing Data-Intensive Applications: [Reliability](https://player.fm/series/co
 [Aligning Enterprise, System, and Software Architectures](http://soadecisions.org/download/zimmermann_chap_mistrik_book.pdf)  
 [Following the Software Architecture Career Path](https://blog.ndepend.com/software-architecture-career-path/)  
 [Architect Role Definitions](http://grahamberrisford.com/AM%201%20Methods/6PRODUCTSandTECHNIQUES/InitiationAndContext/AM%20203%20Some%20architecture%20role%20definitions%2030.pdf)  
-[The role of a software architect](https://apiumhub.com/tech-blog-barcelona/role-of-a-software-architect/)  
 
 ### Everything driven development
 
