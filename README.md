@@ -364,7 +364,7 @@ https://ea.rna.nl/2017/01/13/agile-architecture/
 [Enterprise Architects vs Solution Architects vs Domain Architects](architecture/architect-roles/enterprise-architects-vs-solution-architects-vs-domain-architects.md)  
 [Bridging the Gap Between Enterprise Architecture and Solution Architecture for Maximum Benefit](architecture/architect-roles/enterprise-architecture-bridging-ea-sa.md)  
 [Technical vs. solution vs. enterprise architecture: a matter of scale](architecture/architect-roles/technical-vs-solution-vs-enterprise-architecture-a-matter-of-scale.md)  
-[Following the Software Architecture Career Path](https://blog.ndepend.com/software-architecture-career-path/)  
+[Following the Software Architecture Career Path](architecture/architect-roles/software-architecture-career-path.md)  
 [Architect Role Definitions](http://grahamberrisford.com/AM%201%20Methods/6PRODUCTSandTECHNIQUES/InitiationAndContext/AM%20203%20Some%20architecture%20role%20definitions%2030.pdf)  
 [Aligning Enterprise, System, and Software Architectures 🡕](http://soadecisions.org/download/zimmermann_chap_mistrik_book.pdf) ([local snapshot](snapshots/zimmermann-chap-mistrik-book.pdf))  
 
