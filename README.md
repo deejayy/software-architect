@@ -303,6 +303,7 @@ https://apiumhub.com/tech-blog-barcelona/importance-good-software-architecture/
 https://apiumhub.com/tech-blog-barcelona/importance-of-soft-skills/  
 https://apiumhub.com/tech-blog-barcelona/software-architecture-books/  
 https://apiumhub.com/tech-blog-barcelona/benefits-of-software-architecture/  
+https://www.leanix.net/en/enterprise-architecture  
 
 ## One-liners: The architect ...
 
@@ -354,7 +355,7 @@ https://apiumhub.com/tech-blog-barcelona/benefits-of-software-architecture/
 
 [Technical Architect vs Solution Architect vs Enterprise Architect: What’s the Difference?](architecture/architect-roles/technical-architect-vs-solution-architect-vs-enterprise-architect.md)  
 [The role of a software architect](architecture/architect-roles/role-of-a-software-architect.md)  
-[Enterprise Architect vs. Solution Architect](https://www.leanix.net/en/blog/enterprise-architect-vs-solution-architect-whats-the-difference)  
+[Enterprise Architect vs. Solution Architect](architecture/architect-roles/enterprise-architect-vs-solution-architect-whats-the-difference.md)  
 [Enterprise Architects vs Solution Architects vs Domain Architects](https://www.visual-paradigm.com/guide/enterprise-architecture/enterprise-architects-vs-solution-architects-vs-domain-architects/)  
 [Bridging the Gap Between Enterprise Architecture and Solution Architecture for Maximum Benefit](https://www.oracle.com/technical-resources/articles/enterprise-architecture/ricca-bridging-ea-sa.html)  
 [Technical vs. solution vs. enterprise architecture: a matter of scale](https://eapj.org/technical-vs-solution-vs-enterprise-architecture-a-matter-of-scale/)  
