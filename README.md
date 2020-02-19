@@ -296,13 +296,13 @@ Designing Data-Intensive Applications: [Reliability](https://player.fm/series/co
 
 ## Links
 
-https://apiumhub.com/tech-blog-barcelona/user-interface-testing/
-https://apiumhub.com/tech-blog-barcelona/microservices-vs-monolithic-architecture/
-https://apiumhub.com/tech-blog-barcelona/almost-infinite-scalability/
-https://apiumhub.com/tech-blog-barcelona/importance-good-software-architecture/
-https://apiumhub.com/tech-blog-barcelona/importance-of-soft-skills/
-https://apiumhub.com/tech-blog-barcelona/software-architecture-books/
-https://apiumhub.com/tech-blog-barcelona/benefits-of-software-architecture/
+https://apiumhub.com/tech-blog-barcelona/user-interface-testing/  
+https://apiumhub.com/tech-blog-barcelona/microservices-vs-monolithic-architecture/  
+https://apiumhub.com/tech-blog-barcelona/almost-infinite-scalability/  
+https://apiumhub.com/tech-blog-barcelona/importance-good-software-architecture/  
+https://apiumhub.com/tech-blog-barcelona/importance-of-soft-skills/  
+https://apiumhub.com/tech-blog-barcelona/software-architecture-books/  
+https://apiumhub.com/tech-blog-barcelona/benefits-of-software-architecture/  
 
 ## One-liners: The architect ...
 
