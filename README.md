@@ -357,7 +357,7 @@ https://www.leanix.net/en/enterprise-architecture
 [The role of a software architect](architecture/architect-roles/role-of-a-software-architect.md)  
 [Enterprise Architect vs. Solution Architect](architecture/architect-roles/enterprise-architect-vs-solution-architect-whats-the-difference.md)  
 [Enterprise Architects vs Solution Architects vs Domain Architects](architecture/architect-roles/enterprise-architects-vs-solution-architects-vs-domain-architects.md)  
-[Bridging the Gap Between Enterprise Architecture and Solution Architecture for Maximum Benefit](https://www.oracle.com/technical-resources/articles/enterprise-architecture/ricca-bridging-ea-sa.html)  
+[Bridging the Gap Between Enterprise Architecture and Solution Architecture for Maximum Benefit](architecture/architect-roles/enterprise-architecture-bridging-ea-sa.md)  
 [Technical vs. solution vs. enterprise architecture: a matter of scale](https://eapj.org/technical-vs-solution-vs-enterprise-architecture-a-matter-of-scale/)  
 [Aligning Enterprise, System, and Software Architectures](http://soadecisions.org/download/zimmermann_chap_mistrik_book.pdf)  
 [Following the Software Architecture Career Path](https://blog.ndepend.com/software-architecture-career-path/)  
