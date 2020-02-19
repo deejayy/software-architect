@@ -290,11 +290,11 @@ Chess and the Art of Enterprise Architecture
 
 ## People
 
-[Patrick Kua, tech lead](https://www.patkua.com/)
+[Patrick Kua, tech lead [E]](https://www.patkua.com/)
 
 ## Blogs
 
-[LevelUp Newsletter, Patrick Kua](http://levelup.patkua.com/)
+[LevelUp Newsletter, Patrick Kua [E]](http://levelup.patkua.com/)
 
 ## Links
 
@@ -324,7 +324,7 @@ https://ea.rna.nl/2017/01/13/agile-architecture/
 
 ### Different architect roles
 
-[Software architect (Wikipedia)](https://en.wikipedia.org/wiki/Software_architect)
+[Software architect (Wikipedia) [E]](https://en.wikipedia.org/wiki/Software_architect)
 
 > A software architect is a software developer expert who makes high-level design choices and tries to enforce technical standards, including software coding standards, tools, and platforms.
 
@@ -340,19 +340,19 @@ https://ea.rna.nl/2017/01/13/agile-architecture/
 | solutions architect | focused on solution | very detailed | multiple teams | detailed |
 | application architect | component re-use, maintainability | centered on single application | single project | very detailed |
 
-[Solution architecture (Wikipedia)](https://en.wikipedia.org/wiki/Solution_architecture)
+[Solution architecture (Wikipedia) [E]](https://en.wikipedia.org/wiki/Solution_architecture)
 
 > Solution architecture is a practice of defining and describing an architecture of a system delivered in context of a specific solution and as such it may encompass description of an entire system or only its specific parts. Definition of a solution architecture is typically led by a solution architect.
 
 > According to Forrester Research, solution architecture is one of the key methods by which enterprise architecture delivers value to the organization. Solution architecture activities take place during solution ideation, solution design, and solution implementation. During ideation, solution architecture establishes the complete business context for the solution and defines the vision and requirements for the solution. During design, solution architecture elaborates potential options, which may include RFIs, RFPs or prototype development. It selects the optimal option and develops the roadmap for the selected solution. During implementation, solution architecture communicates the architecture to the stakeholders, and guides the implementation team.
 
-[Application architect (Wikipedia)](https://en.wikipedia.org/wiki/Applications_architecture#Application_architect)
+[Application architect (Wikipedia) [E]](https://en.wikipedia.org/wiki/Applications_architecture#Application_architect)
 
 > The Application architect is a lead or technical manager in the computer programming team who is specialized in the application built and the technologies used.
 
 > An applications architecture describes the behavior of applications used in a business, focused on how they interact with each other and with users. It is focused on the data consumed and produced by applications rather than their internal structure. In application portfolio management, applications are mapped to business functions and processes as well as costs, functional quality and technical quality in order to assess the value provided.
 
-[Enterprise architecture (Wikipedia)](https://en.wikipedia.org/wiki/Enterprise_architecture)
+[Enterprise architecture (Wikipedia) [E]](https://en.wikipedia.org/wiki/Enterprise_architecture)
 
 > Enterprise architecture (EA) is "a well-defined practice for conducting enterprise analysis, design, planning, and implementation, using a comprehensive approach at all times, for the successful development and execution of strategy. Enterprise architecture applies architecture principles and practices to guide organizations through the business, information, process, and technology changes necessary to execute their strategies. These practices utilize the various aspects of an enterprise to identify, motivate, and achieve these changes."
 
@@ -364,9 +364,8 @@ https://ea.rna.nl/2017/01/13/agile-architecture/
 [Enterprise Architects vs Solution Architects vs Domain Architects](architecture/architect-roles/enterprise-architects-vs-solution-architects-vs-domain-architects.md)  
 [Bridging the Gap Between Enterprise Architecture and Solution Architecture for Maximum Benefit](architecture/architect-roles/enterprise-architecture-bridging-ea-sa.md)  
 [Technical vs. solution vs. enterprise architecture: a matter of scale](architecture/architect-roles/technical-vs-solution-vs-enterprise-architecture-a-matter-of-scale.md)  
-[Aligning Enterprise, System, and Software Architectures](http://soadecisions.org/download/zimmermann_chap_mistrik_book.pdf)  
 [Following the Software Architecture Career Path](https://blog.ndepend.com/software-architecture-career-path/)  
 [Architect Role Definitions](http://grahamberrisford.com/AM%201%20Methods/6PRODUCTSandTECHNIQUES/InitiationAndContext/AM%20203%20Some%20architecture%20role%20definitions%2030.pdf)  
+[Aligning Enterprise, System, and Software Architectures [E]](http://soadecisions.org/download/zimmermann_chap_mistrik_book.pdf) ([local snapshot](snapshots/zimmermann-chap-mistrik-book.pdf))  
 
 ### Everything driven development
-
