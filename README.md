@@ -284,6 +284,8 @@ Designing Data-Intensive Applications: [Reliability](https://player.fm/series/co
 
 ## Books
 
+Chess and the Art of Enterprise Architecture
+
 ## Conferences
 
 ## People
@@ -304,6 +306,9 @@ https://apiumhub.com/tech-blog-barcelona/importance-of-soft-skills/
 https://apiumhub.com/tech-blog-barcelona/software-architecture-books/  
 https://apiumhub.com/tech-blog-barcelona/benefits-of-software-architecture/  
 https://www.leanix.net/en/enterprise-architecture  
+https://www.infoworld.com/article/2988671/architecture-principles-considered-harmful.html  
+https://ea.rna.nl/2015/03/08/losing-a-limpet-what-happens-when-we-dont-have-enterprise-architecture/  
+https://ea.rna.nl/2017/01/13/agile-architecture/  
 
 ## One-liners: The architect ...
 
@@ -358,7 +363,7 @@ https://www.leanix.net/en/enterprise-architecture
 [Enterprise Architect vs. Solution Architect](architecture/architect-roles/enterprise-architect-vs-solution-architect-whats-the-difference.md)  
 [Enterprise Architects vs Solution Architects vs Domain Architects](architecture/architect-roles/enterprise-architects-vs-solution-architects-vs-domain-architects.md)  
 [Bridging the Gap Between Enterprise Architecture and Solution Architecture for Maximum Benefit](architecture/architect-roles/enterprise-architecture-bridging-ea-sa.md)  
-[Technical vs. solution vs. enterprise architecture: a matter of scale](https://eapj.org/technical-vs-solution-vs-enterprise-architecture-a-matter-of-scale/)  
+[Technical vs. solution vs. enterprise architecture: a matter of scale](architecture/architect-roles/technical-vs-solution-vs-enterprise-architecture-a-matter-of-scale.md)  
 [Aligning Enterprise, System, and Software Architectures](http://soadecisions.org/download/zimmermann_chap_mistrik_book.pdf)  
 [Following the Software Architecture Career Path](https://blog.ndepend.com/software-architecture-career-path/)  
 [Architect Role Definitions](http://grahamberrisford.com/AM%201%20Methods/6PRODUCTSandTECHNIQUES/InitiationAndContext/AM%20203%20Some%20architecture%20role%20definitions%2030.pdf)  
