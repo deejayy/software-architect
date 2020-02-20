@@ -430,6 +430,21 @@ Dummy, Stub, Spy, Mock, Simulator
 [Test-driven development (IBM) 🡕](https://www.ibm.com/garage/method/practices/code/practice_test_driven_development/)  
 
 #### Design-driven development
+
+[Design Driven Development 🡕](https://blog.prototypr.io/design-driven-development-36a30dd8088c) uses design as part of a process to learn and better define requirements in order to build better, more informed technology solutions. It can also be looked at as a process whereby design and user experience drives the development of a product or software application. This leads to products that people enjoy using and want to tell others about.
+
+Using design to learn means allows the business to gain insights to better inform product design and technology decisions before investing heavily in the software development. The design can be in the form a sketch, to a low or high-fidelity mockup, to a clickable prototype or even a quick and dirty coded prototype. Anything you can put in front of a customer to get feedback and better inform what you’re building before you build it.
+
+Without design driven development, it’s easy to build many bad experiences into a product and more importantly, miss the mark with solutions completely. In the absence of design driven development, teams are focused more on building and shipping — often blindly. If product managers and teams are not thinking deeply and analysing what they intend to build and why, they’re coding without a cause.
+
+##### Further reading
+
+[How to Foster Design-Driven Development in Your Company 🡕](http://jesseddy.com/downloads/Design_Driven_Development.pdf), [(local snapshot)](snapshots/design-driven-development-jess-eddy.pdf)  
+[Design Driven Development (Thoughtbot) 🡕](https://thoughtbot.com/blog/design-driven-development)  
+[Design-driven development (UXMA) 🡕](https://uxma.com/en/services/designdriven-development.html)  
+[Design Driven Development (Mäd) 🡕](https://why.workwithmad.com/design-driven-development/)  
+[Design Driven Development (Slideshare) 🡕](https://www.slideshare.net/henrydjacob/design-driven-development/37)  
+
 #### Feature-driven development
 #### Model-driven development
 #### Acceptance test–driven development
