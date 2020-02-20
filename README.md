@@ -285,6 +285,7 @@ Designing Data-Intensive Applications: [Reliability](https://player.fm/series/co
 ## Books
 
 Chess and the Art of Enterprise Architecture
+Test-Driven Development by Example, Kent Beck
 
 ## Conferences
 
@@ -318,6 +319,8 @@ https://blog.ndepend.com/code-quality-metrics-signal-noise/
 https://www.ndepend.com/docs/code-metrics  
 https://blog.ndepend.com/5-tips-help-visualize-code/  
 https://blog.ndepend.com/with-code-metrics-trends-are-king/  
+https://en.wikipedia.org/wiki/List_of_software_development_philosophies
+https://en.wikipedia.org/wiki/Software_development
 
 ## One-liners: The architect ...
 
@@ -367,6 +370,8 @@ https://blog.ndepend.com/with-code-metrics-trends-are-king/
 
 > Practitioners of enterprise architecture, enterprise architects, are responsible for performing the analysis of business structure and processes and are often called upon to draw conclusions from the information collected to address the goals of enterprise architecture: effectiveness, efficiency, agility, and continuity of complex business operations.
 
+#### Further reading
+
 [Technical Architect vs Solution Architect vs Enterprise Architect: What’s the Difference?](architecture/architect-roles/technical-architect-vs-solution-architect-vs-enterprise-architect.md)  
 [The role of a software architect](architecture/architect-roles/role-of-a-software-architect.md)  
 [Enterprise Architect vs. Solution Architect](architecture/architect-roles/enterprise-architect-vs-solution-architect-whats-the-difference.md)  
@@ -378,3 +383,56 @@ https://blog.ndepend.com/with-code-metrics-trends-are-king/
 [Aligning Enterprise, System, and Software Architectures 🡕](http://soadecisions.org/download/zimmermann_chap_mistrik_book.pdf) ([local snapshot](snapshots/zimmermann-chap-mistrik-book.pdf))  
 
 ### Everything driven development
+
+#### Test-driven development
+
+[Test-driven development (Wikipedia) 🡕](https://en.wikipedia.org/wiki/Test-driven_development) (TDD) is a software development process that relies on the repetition of a very short development cycle: requirements are turned into very specific test cases, then the code is improved so that the tests pass. This is opposed to software development that allows code to be added that is not proven to meet requirements.
+
+- encourages simple designs and inspires confidence
+- is related to the test-first programming concepts of extreme programming
+- helps improving and debugging legacy code developed with older techniques
+
+![](architecture/development-philosophies/tdd-01.png)
+
+##### Benefits
+
+- programmers who wrote more tests tended to be more productive
+- programmers rarely felt the need to invoke a debugger
+- programmer is concerned with the interface before the implementation
+- allows a programmer to focus on the task
+- ensures in this way that all written code is covered by at least one test
+- gives the programming team a greater level of confidence in the code
+- more code is required with TDD than without TDD
+- can lead to more modularized, flexible, and extensible code
+- they detect any unexpected changes in the code's behaviour
+
+##### Limitations
+
+- extensive use of unit tests required for testing: user interfaces, software that works with databases, 
+- management support is essential
+- tests may share blind spots or the developer misinterprets the requirements: tests will give a false sense of correctness
+- false sense of security
+- tests become part of the maintenance overhead of a project
+- maintaining an excessive number of tests costs time
+- tests made with TDD cannot easily be re-created at a later date
+
+##### Key elements of TDD
+
+Dummy, Stub, Spy, Mock, Simulator
+
+##### Further reading
+
+[Introduction to Test Driven Development 🡕](http://www.agiledata.org/essays/tdd.html)  
+[Test Driven Development (Scaled Agile) 🡕](https://www.scaledagileframework.com/test-driven-development/)  
+[Test Driven Development Tools and Agile Process 🡕](https://www.xenonstack.com/insights/what-is-test-driven-development/)  
+[TDD × ROI: Is Test-Driven Development worth the money? 🡕](https://medium.com/crowdbotics/tdd-roi-is-test-driven-development-worth-the-money-d535c8d5a5f)  
+[Test Driven Development: what it is, and what it is not 🡕](https://www.freecodecamp.org/news/test-driven-development-what-it-is-and-what-it-is-not-41fa6bca02a2/)  
+[Test-driven development (IBM) 🡕](https://www.ibm.com/garage/method/practices/code/practice_test_driven_development/)  
+
+#### Design-driven development
+#### Feature-driven development
+#### Model-driven development
+#### Acceptance test–driven development
+#### Behaviour-driven development
+#### Domain driven design
+#### Plan-driven models
