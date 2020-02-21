@@ -321,6 +321,7 @@ https://blog.ndepend.com/5-tips-help-visualize-code/
 https://blog.ndepend.com/with-code-metrics-trends-are-king/  
 https://en.wikipedia.org/wiki/List_of_software_development_philosophies
 https://en.wikipedia.org/wiki/Software_development
+https://medium.com/globalluxsoft/5-popular-software-development-models-with-their-pros-and-cons-12a486b569dc
 
 ## One-liners: The architect ...
 
@@ -446,6 +447,62 @@ Without design driven development, it’s easy to build many bad experiences int
 [Design Driven Development (Slideshare) 🡕](https://www.slideshare.net/henrydjacob/design-driven-development/37)  
 
 #### Feature-driven development
+
+[Feature-driven development 🡕](https://en.wikipedia.org/wiki/Feature-driven_development) (FDD) is an iterative and incremental software development process. It is a lightweight or Agile method for developing software. FDD blends a number of industry-recognized best practices into a cohesive whole. These practices are driven from a client-valued functionality (feature) perspective. Its main purpose is to deliver tangible, working software repeatedly in a timely manner in accordance with the Principles behind the Agile Manifesto.
+
+FDD is a model-driven short-iteration process that consists of five basic activities. For accurate state reporting and keeping track of the software development project, milestones that mark the progress made on each feature are defined. This section gives a high level overview of the activities. In the figure on the right, the meta-process model for these activities is displayed. During the first two sequential activities, an overall model shape is established. The final three activities are iterated for each feature.
+
+Any project can use this method. In other words, that project splits into multiple features; each feature is divided further until it is as small as it can be worked out. Additionally, this is done to ensure that its delivery can happen in 2-10 days.
+
+It is usually applicable to Large-scale projects.
+
+##### Roles and responsibilities
+
+- Project Manager
+- Software Architect
+- Development Manager
+- Dev Lead
+- Class Owners
+- Domain Experts
+- Other Supporting Roles
+
+##### Practices
+
+1. Domain Object Modeling
+1. Development by Feature
+1. Individual class ownership
+1. Feature Team
+1. Code/Design reviews
+1. Configuration Management
+1. Regular Deploy
+1. Visibility
+
+##### Processes
+
+1. Develop an overall model
+1. Build a feature list
+1. Plan By Feature
+1. Design by feature
+1. Build by feature
+
+##### Further reading
+
+[Feature Driven Development (FDD): An Agile Methodology](https://www.toolsqa.com/agile/feature-driven-development/)
+[Feature Driven Development](http://www.featuredrivendevelopment.com/)
+[Feature Driven Development (FDD)](https://www.productplan.com/glossary/feature-driven-development/)
+[An Introduction to Feature-Driven Development](https://dzone.com/articles/introduction-feature-driven)
+[Feature Driven Development: A Guide](https://www.arrkgroup.com/thought-leadership/feature-driven-development-a-guide/)
+[Feature Driven Development](https://activecollab.com/blog/project-management/feature-driven-development)
+[FDD: It's processes & comparison to other agile methodologies](https://apiumhub.com/tech-blog-barcelona/feature-driven-development/)
+[9 Things You Must Know About FDD – Feature Driven Development](https://www.openxcell.com/blog/9-things-must-know-fdd-feature-driven-development/)
+[Feature-Driven Development: An Agile Alternative to Extreme Programming](https://www.cmcrossroads.com/article/feature-driven-development-agile-alternative-extreme-programming)
+[Feature-Driven Development: Best Practices](http://www.informit.com/articles/article.aspx?p=26059)
+[A Practical example of Feature Driven Development](http://www.mike-dixon.com/2012/01/24/a-practical-example-of-feature-driven-development/)
+[What is Feature Driven Development?](https://www.wisegeek.com/what-is-feature-driven-development.htm)
+[Not Everything Needs to Be a User Story: Using FDD Features](https://www.mountaingoatsoftware.com/blog/not-everything-needs-to-be-a-user-story-using-fdd-features)
+[Feature Driven Development (FDD) Processes and Comparison To Other Agile Methodologies](https://www.upwork.com/hiring/for-clients/agile-methodologies/)
+[Major Seminar On Feature Driven Development](https://csis.pace.edu/~marchese/CS616/Agile/FDD/fdd.pdf), [(snapshot)](architecture/development-philosophies/fdd.pdf)
+
 #### Model-driven development
 #### Acceptance test–driven development
 #### Behaviour-driven development
