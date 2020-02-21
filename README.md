@@ -487,21 +487,21 @@ It is usually applicable to Large-scale projects.
 
 ##### Further reading
 
-[Feature Driven Development (FDD): An Agile Methodology](https://www.toolsqa.com/agile/feature-driven-development/)  
-[Feature Driven Development](http://www.featuredrivendevelopment.com/)  
-[Feature Driven Development (FDD)](https://www.productplan.com/glossary/feature-driven-development/)  
-[An Introduction to Feature-Driven Development](https://dzone.com/articles/introduction-feature-driven)  
-[Feature Driven Development: A Guide](https://www.arrkgroup.com/thought-leadership/feature-driven-development-a-guide/)  
-[Feature Driven Development](https://activecollab.com/blog/project-management/feature-driven-development)  
-[FDD: It's processes & comparison to other agile methodologies](https://apiumhub.com/tech-blog-barcelona/feature-driven-development/)  
-[9 Things You Must Know About FDD – Feature Driven Development](https://www.openxcell.com/blog/9-things-must-know-fdd-feature-driven-development/)  
-[Feature-Driven Development: An Agile Alternative to Extreme Programming](https://www.cmcrossroads.com/article/feature-driven-development-agile-alternative-extreme-programming)  
-[Feature-Driven Development: Best Practices](http://www.informit.com/articles/article.aspx?p=26059)  
-[A Practical example of Feature Driven Development](http://www.mike-dixon.com/2012/01/24/a-practical-example-of-feature-driven-development/)  
-[What is Feature Driven Development?](https://www.wisegeek.com/what-is-feature-driven-development.htm)  
-[Not Everything Needs to Be a User Story: Using FDD Features](https://www.mountaingoatsoftware.com/blog/not-everything-needs-to-be-a-user-story-using-fdd-features)  
-[Feature Driven Development (FDD) Processes and Comparison To Other Agile Methodologies](https://www.upwork.com/hiring/for-clients/agile-methodologies/)  
-[Major Seminar On Feature Driven Development](https://csis.pace.edu/~marchese/CS616/Agile/FDD/fdd.pdf), [(snapshot)](architecture/development-philosophies/fdd.pdf)  
+[Feature Driven Development (FDD): An Agile Methodology 🡕](https://www.toolsqa.com/agile/feature-driven-development/)  
+[Feature Driven Development 🡕](http://www.featuredrivendevelopment.com/)  
+[Feature Driven Development (FDD) 🡕](https://www.productplan.com/glossary/feature-driven-development/)  
+[An Introduction to Feature-Driven Development 🡕](https://dzone.com/articles/introduction-feature-driven)  
+[Feature Driven Development: A Guide 🡕](https://www.arrkgroup.com/thought-leadership/feature-driven-development-a-guide/)  
+[Feature Driven Development 🡕](https://activecollab.com/blog/project-management/feature-driven-development)  
+[FDD: It's processes & comparison to other agile methodologies 🡕](https://apiumhub.com/tech-blog-barcelona/feature-driven-development/)  
+[9 Things You Must Know About FDD – Feature Driven Development 🡕](https://www.openxcell.com/blog/9-things-must-know-fdd-feature-driven-development/)  
+[Feature-Driven Development: An Agile Alternative to Extreme Programming 🡕](https://www.cmcrossroads.com/article/feature-driven-development-agile-alternative-extreme-programming)  
+[Feature-Driven Development: Best Practices 🡕](http://www.informit.com/articles/article.aspx?p=26059)  
+[A Practical example of Feature Driven Development 🡕](http://www.mike-dixon.com/2012/01/24/a-practical-example-of-feature-driven-development/)  
+[What is Feature Driven Development? 🡕](https://www.wisegeek.com/what-is-feature-driven-development.htm)  
+[Not Everything Needs to Be a User Story: Using FDD Features 🡕](https://www.mountaingoatsoftware.com/blog/not-everything-needs-to-be-a-user-story-using-fdd-features)  
+[Feature Driven Development (FDD) Processes and Comparison To Other Agile Methodologies 🡕](https://www.upwork.com/hiring/for-clients/agile-methodologies/)  
+[Major Seminar On Feature Driven Development 🡕](https://csis.pace.edu/~marchese/CS616/Agile/FDD/fdd.pdf), [(snapshot)](architecture/development-philosophies/fdd.pdf)  
 
 #### Model-driven development
 #### Acceptance test–driven development
