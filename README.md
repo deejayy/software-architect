@@ -545,6 +545,46 @@ There are two core concepts associated with model-driven development: abstractio
 [The Pragmatics of Model-Driven Development 🡕](https://www.state-machine.com/doc/Selic-Pragmatics.pdf), [(snapshot)](architecture/development-philosophies/mdd-pragmatics.pdf)
 
 #### Acceptance test– driven development (ATDD)
+
+[Acceptance test–driven development 🡕](https://en.wikipedia.org/wiki/Acceptance_test%E2%80%93driven_development) (ATDD) is a development methodology based on communication between the business customers, the developers, and the testers. All these processes aid developers and testers in understanding the customer's needs prior to implementation and allow customers to be able to converse in their own domain language.
+
+Acceptance tests are from the user's point of view – the external view of the system.
+
+Analogous to test-driven development, Acceptance Test Driven Development (ATDD) involves team members with different perspectives (customer, development, testing) collaborating to write acceptance tests in advance of implementing the corresponding functionality.  The collaborative discussions that occur to generate the acceptance test is often referred to as the three amigos, representing the three perspectives of customer (what problem are we trying to solve?), development (how might we solve this problem?), and testing (what about…).
+
+These acceptance tests represent the user’s point of view and act as a form of requirements to describe how the system will function, as well as serve as a way of verifying that the system functions as intended. In some cases the team automates the acceptance tests.
+
+Acceptance tests are a part of an overall testing strategy. They are the customer tests that demonstrate the business intent of a system. Component tests are technical acceptance tests developed by an architect that specify the behavior of large modules.
+
+##### Test format
+
+Given (setup) - When (trigger) - Then (verification)
+
+```
+Given Book that has not been checked out
+And User who is registered on the system
+When User checks out a book
+Then Book is marked as checked out
+```
+
+##### Further reading
+
+[Acceptance Test Driven Development (ATDD) 🡕](https://www.agilealliance.org/glossary/atdd/)  
+[Driving Development with Tests: ATDD and TDD 🡕](http://testobsessed.com/wp-content/uploads/2011/04/atddexample.pdf), [(snapshot)](architecture/development-philosophies/atdd.pdf)  
+[ATDD From the Trenches 🡕](https://www.infoq.com/articles/atdd-from-the-trenches/)  
+[7 Things About Acceptance Test Driven Development Everyone Should Know 🡕](https://reqtest.com/testing-blog/acceptance-test-driven-development-2/)  
+[ATDD Lets Team Frequently Release Software](http://www.blog.acceptancetestdrivendevelopment.com/atdd-lets-team-frequently-release-software/)  
+[Acceptance test-driven development](https://www.pmi.org/learning/library/acceptance-test-driven-development-5966)  
+[Acceptance Test Driven Development](https://dzone.com/articles/acceptance-test-driven-development-closing-the-com)  
+[ATDD - Acceptance Test Driven Development](https://www.slideshare.net/nashjain/acceptance-test-driven-development-350264)  
+[Acceptance test driven development for web applications](https://www.javaworld.com/article/2078432/acceptance-test-driven-development-for-web-applications.html)  
+
 #### Behaviour-driven development (BDD)
+
+> Specification by Example
+
+https://www.agilealliance.org/glossary/bdd/
+
 #### Domain driven design (DDD)
 #### Plan-driven models
+#### Example driven development (EDD)
