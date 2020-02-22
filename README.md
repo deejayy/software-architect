@@ -204,6 +204,7 @@ Designing Data-Intensive Applications: [Reliability](https://player.fm/series/co
 - nosql
 - sql
 - transactions
+- data masking
 
 ### General software development
 
@@ -232,6 +233,7 @@ Designing Data-Intensive Applications: [Reliability](https://player.fm/series/co
 - MVC, MVVM
 - naming things
 - nocode
+- low-code
 - npm
 - online payment solutions
 - oop, aop
@@ -322,6 +324,7 @@ https://blog.ndepend.com/with-code-metrics-trends-are-king/
 https://en.wikipedia.org/wiki/List_of_software_development_philosophies
 https://en.wikipedia.org/wiki/Software_development
 https://medium.com/globalluxsoft/5-popular-software-development-models-with-their-pros-and-cons-12a486b569dc
+https://www.mendix.com/blog/introducing-the-low-code-manifesto/
 
 ## One-liners: The architect ...
 
@@ -385,7 +388,7 @@ https://medium.com/globalluxsoft/5-popular-software-development-models-with-thei
 
 ### Everything driven development
 
-#### Test-driven development
+#### Test-driven development (TDD)
 
 [Test-driven development (Wikipedia) 🡕](https://en.wikipedia.org/wiki/Test-driven_development) (TDD) is a software development process that relies on the repetition of a very short development cycle: requirements are turned into very specific test cases, then the code is improved so that the tests pass. This is opposed to software development that allows code to be added that is not proven to meet requirements.
 
@@ -430,7 +433,7 @@ Dummy, Stub, Spy, Mock, Simulator
 [Test Driven Development: what it is, and what it is not 🡕](https://www.freecodecamp.org/news/test-driven-development-what-it-is-and-what-it-is-not-41fa6bca02a2/)  
 [Test-driven development (IBM) 🡕](https://www.ibm.com/garage/method/practices/code/practice_test_driven_development/)  
 
-#### Design-driven development
+#### Design-driven development (DDD)
 
 [Design Driven Development 🡕](https://blog.prototypr.io/design-driven-development-36a30dd8088c) uses design as part of a process to learn and better define requirements in order to build better, more informed technology solutions. It can also be looked at as a process whereby design and user experience drives the development of a product or software application. This leads to products that people enjoy using and want to tell others about.
 
@@ -446,7 +449,7 @@ Without design driven development, it’s easy to build many bad experiences int
 [Design Driven Development (Mäd) 🡕](https://why.workwithmad.com/design-driven-development/)  
 [Design Driven Development (Slideshare) 🡕](https://www.slideshare.net/henrydjacob/design-driven-development/37)  
 
-#### Feature-driven development
+#### Feature-driven development (FDD)
 
 [Feature-driven development 🡕](https://en.wikipedia.org/wiki/Feature-driven_development) (FDD) is an iterative and incremental software development process. It is a lightweight or Agile method for developing software. FDD blends a number of industry-recognized best practices into a cohesive whole. These practices are driven from a client-valued functionality (feature) perspective. Its main purpose is to deliver tangible, working software repeatedly in a timely manner in accordance with the Principles behind the Agile Manifesto.
 
@@ -503,8 +506,45 @@ It is usually applicable to Large-scale projects.
 [Feature Driven Development (FDD) Processes and Comparison To Other Agile Methodologies 🡕](https://www.upwork.com/hiring/for-clients/agile-methodologies/)  
 [Major Seminar On Feature Driven Development 🡕](https://csis.pace.edu/~marchese/CS616/Agile/FDD/fdd.pdf), [(snapshot)](architecture/development-philosophies/fdd.pdf)  
 
-#### Model-driven development
-#### Acceptance test–driven development
-#### Behaviour-driven development
-#### Domain driven design
+#### Model-driven development (MDD)
+
+[Model-driven engineering 🡕](https://en.wikipedia.org/wiki/Model-driven_engineering) (MDE) is a software development methodology that focuses on creating and exploiting domain models, which are conceptual models of all the topics related to a specific problem. Hence, it highlights and aims at abstract representations of the knowledge and activities that govern a particular application domain, rather than the computing (i.e. algorithmic) concepts. MDD is a key element of the low-code approach.
+
+Instead of writing code you can create models. These models are transformed into source code. You, of course, have to learn how to model, but once you have, all the manual work of writing code is automated.
+
+In Model-Driven Development the model of a software application is specified on a higher abstraction level than traditional programming languages. This model is automatically transformed into a working software application by generating code or interpreting / executing the model. While the used model is on a higher abstraction level it is much smaller compared to the same model expressed in code.
+
+Model-driven development (MDD) leverages graphical models and pre-built application components so that users can visually construct complex applications. Interest in model-driven development continues to increase as individuals experience the ease and speed with which technical and business users orchestrate and deploy business applications. The right model-driven development platform provides significant productivity advantages over traditional development methods and enables project delivery by smaller teams.
+
+There are two core concepts associated with model-driven development: abstraction and automation. The software application model is defined on a higher abstraction level and then converted into a working application using automated transformation or interpretations. The right model-driven development approach leverages model execution at run time, where the model is automatically transformed into a working software application by interpreting and executing the model (removing the need to generate or write code).
+
+##### MDD Tools
+
+- Mendix
+- Microsoft Power Apps
+- Appian
+- Pega platform
+- Quick Base
+- Kony Development Cloud
+- OutSystems
+- Nintex Platform
+- KiSSFLOW
+- Dezyne
+
+##### Further reading
+
+[15 reasons why you should start using Model Driven Development 🡕](http://www.theenterprisearchitect.eu/blog/2009/11/25/15-reasons-why-you-should-start-using-model-driven-development/)  
+[5 types of Model Driven Software Development 🡕](http://www.theenterprisearchitect.eu/blog/2009/03/31/5-types-of-model-driven-software-development)  
+[8 reasons why Model-Driven Development is dangerous 🡕](http://www.theenterprisearchitect.eu/blog/2009/06/25/8-reasons-why-model-driven-development-is-dangerous/)  
+[What is Model Driven Development (MDD)? 🡕](https://www.mendix.com/model-driven-development/)  
+[Model Driven Development Vs Test Driven Development Computer Science Essay 🡕](https://www.ukessays.com/essays/computer-science/model-driven-development-vs-test-driven-development-computer-science-essay.php)  
+[ModelDrivenSoftwareDevelopment 🡕](https://www.martinfowler.com/bliki/ModelDrivenSoftwareDevelopment.html)  
+[Agile Model Driven Development (AMDD): The Key to Scaling Agile Software Development 🡕](http://www.agilemodeling.com/essays/amdd.htm)  
+[Low-Code Principle #1: Model-Driven Development, The Most Important Concept in Low-Code 🡕](https://www.mendix.com/blog/low-code-principle-1-model-driven-development/)  
+[Model-Driven-Development (part 1) — RAD, BPMS and Low-Code Development Platforms 🡕](https://blog.gds-gov.tech/model-driven-development-part-1-rad-bpms-low-code-development-platform-etc-287060722058)  
+[The Pragmatics of Model-Driven Development 🡕](https://www.state-machine.com/doc/Selic-Pragmatics.pdf), [(snapshot)](architecture/development-philosophies/mdd-pragmatics.pdf)
+
+#### Acceptance test– driven development (ATDD)
+#### Behaviour-driven development (BDD)
+#### Domain driven design (DDD)
 #### Plan-driven models
