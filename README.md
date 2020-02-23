@@ -205,6 +205,7 @@ Designing Data-Intensive Applications: [Reliability](https://player.fm/series/co
 - sql
 - transactions
 - data masking
+- bigquery
 
 ### General software development
 
@@ -286,14 +287,23 @@ Designing Data-Intensive Applications: [Reliability](https://player.fm/series/co
 
 ## Books
 
-Chess and the Art of Enterprise Architecture
-Test-Driven Development by Example, Kent Beck
+Chess and the Art of Enterprise Architecture  
+Test-Driven Development by Example, Kent Beck  
+Building Evolutionary Architectures, Neal Ford [(local snapshot)](snapshots/building-evolutionary-architectures-support-constant-change-by-neal-ford-rebecca-parsons-patrick-kua.epub)  
+Techniques for Crafting Better Presentations, Neal Ford [(local snapshot)](snapshots/presentation-patterns-techniques-for-crafting-better-presentations-by-neal-ford-matthew-mccullough-nathaniel-schutta.epub)  
+The ThoughtWorks Anthology, Volume 2, Neal Ford  
+97 Things Every Programmer Should Know, Neal Ford  
+97 Things Every Software Architect Should Know, Neal Ford  
+The Productive Programmer, Neal Ford [(local snapshot)](snapshots/the-productive-programmer-by-neal-ford.pdf)  
 
 ## Conferences
+
+[O’Reilly Software Architecture Conference 🡕](https://twitter.com/OReillySACon)  
 
 ## People
 
 [Patrick Kua, tech lead 🡕](https://www.patkua.com/)
+[Neal Ford 🡕](http://nealford.com/)
 
 ## Blogs
 
