@@ -119,6 +119,7 @@ Designing Data-Intensive Applications: [Reliability](https://player.fm/series/co
 - technical debt
 - timezones
 - UML
+- C4 model (Simon Brown)
 
 ### Human factor
 
@@ -352,13 +353,13 @@ https://www.mendix.com/blog/introducing-the-low-code-manifesto/
 
 [Software architect (Wikipedia) 🡕](https://en.wikipedia.org/wiki/Software_architect)
 
-> A software architect is a software developer expert who makes high-level design choices and tries to enforce technical standards, including software coding standards, tools, and platforms.
+A software architect is a software developer expert who makes high-level design choices and tries to enforce technical standards, including software coding standards, tools, and platforms.
 
-> Architects make high-level design choices based on their programming experience. An architect has thought through all the aspects of a software, just like an architect that builds a house. A construction architect knows where the ducts will be, where the electric connections will be and where the wall outlets will be. A design that a common person sees is just the walls and windows but a detailed design that is abstracted from the outsider are also present with the architect. In addition, the architect may sometimes propose technical standards, including coding standards, tools, or platforms.
+Architects make high-level design choices based on their programming experience. An architect has thought through all the aspects of a software, just like an architect that builds a house. A construction architect knows where the ducts will be, where the electric connections will be and where the wall outlets will be. A design that a common person sees is just the walls and windows but a detailed design that is abstracted from the outsider are also present with the architect. In addition, the architect may sometimes propose technical standards, including coding standards, tools, or platforms.
 
-> Software architects may also be engaged in the design of the architecture of the hardware environment, or may focus entirely on the design methodology of the code.
+Software architects may also be engaged in the design of the architecture of the hardware environment, or may focus entirely on the design methodology of the code.
 
-> Architects can use various software architectural models that specialize in communicating architecture.
+Architects can use various software architectural models that specialize in communicating architecture.
 
 | Architect type | Strategic thinking | System interactions | Communication | Design |
 | :-------------- | :------------------ | :------------------- | :------------- | :------ |
@@ -368,21 +369,21 @@ https://www.mendix.com/blog/introducing-the-low-code-manifesto/
 
 [Solution architecture (Wikipedia) 🡕](https://en.wikipedia.org/wiki/Solution_architecture)
 
-> Solution architecture is a practice of defining and describing an architecture of a system delivered in context of a specific solution and as such it may encompass description of an entire system or only its specific parts. Definition of a solution architecture is typically led by a solution architect.
+Solution architecture is a practice of defining and describing an architecture of a system delivered in context of a specific solution and as such it may encompass description of an entire system or only its specific parts. Definition of a solution architecture is typically led by a solution architect.
 
-> According to Forrester Research, solution architecture is one of the key methods by which enterprise architecture delivers value to the organization. Solution architecture activities take place during solution ideation, solution design, and solution implementation. During ideation, solution architecture establishes the complete business context for the solution and defines the vision and requirements for the solution. During design, solution architecture elaborates potential options, which may include RFIs, RFPs or prototype development. It selects the optimal option and develops the roadmap for the selected solution. During implementation, solution architecture communicates the architecture to the stakeholders, and guides the implementation team.
+According to Forrester Research, solution architecture is one of the key methods by which enterprise architecture delivers value to the organization. Solution architecture activities take place during solution ideation, solution design, and solution implementation. During ideation, solution architecture establishes the complete business context for the solution and defines the vision and requirements for the solution. During design, solution architecture elaborates potential options, which may include RFIs, RFPs or prototype development. It selects the optimal option and develops the roadmap for the selected solution. During implementation, solution architecture communicates the architecture to the stakeholders, and guides the implementation team.
 
 [Application architect (Wikipedia) 🡕](https://en.wikipedia.org/wiki/Applications_architecture#Application_architect)
 
-> The Application architect is a lead or technical manager in the computer programming team who is specialized in the application built and the technologies used.
+The Application architect is a lead or technical manager in the computer programming team who is specialized in the application built and the technologies used.
 
-> An applications architecture describes the behavior of applications used in a business, focused on how they interact with each other and with users. It is focused on the data consumed and produced by applications rather than their internal structure. In application portfolio management, applications are mapped to business functions and processes as well as costs, functional quality and technical quality in order to assess the value provided.
+An applications architecture describes the behavior of applications used in a business, focused on how they interact with each other and with users. It is focused on the data consumed and produced by applications rather than their internal structure. In application portfolio management, applications are mapped to business functions and processes as well as costs, functional quality and technical quality in order to assess the value provided.
 
 [Enterprise architecture (Wikipedia) 🡕](https://en.wikipedia.org/wiki/Enterprise_architecture)
 
-> Enterprise architecture (EA) is "a well-defined practice for conducting enterprise analysis, design, planning, and implementation, using a comprehensive approach at all times, for the successful development and execution of strategy. Enterprise architecture applies architecture principles and practices to guide organizations through the business, information, process, and technology changes necessary to execute their strategies. These practices utilize the various aspects of an enterprise to identify, motivate, and achieve these changes."
+Enterprise architecture (EA) is "a well-defined practice for conducting enterprise analysis, design, planning, and implementation, using a comprehensive approach at all times, for the successful development and execution of strategy. Enterprise architecture applies architecture principles and practices to guide organizations through the business, information, process, and technology changes necessary to execute their strategies. These practices utilize the various aspects of an enterprise to identify, motivate, and achieve these changes."
 
-> Practitioners of enterprise architecture, enterprise architects, are responsible for performing the analysis of business structure and processes and are often called upon to draw conclusions from the information collected to address the goals of enterprise architecture: effectiveness, efficiency, agility, and continuity of complex business operations.
+Practitioners of enterprise architecture, enterprise architects, are responsible for performing the analysis of business structure and processes and are often called upon to draw conclusions from the information collected to address the goals of enterprise architecture: effectiveness, efficiency, agility, and continuity of complex business operations.
 
 #### Further reading
 
@@ -584,16 +585,61 @@ Then Book is marked as checked out
 [ATDD From the Trenches 🡕](https://www.infoq.com/articles/atdd-from-the-trenches/)  
 [7 Things About Acceptance Test Driven Development Everyone Should Know 🡕](https://reqtest.com/testing-blog/acceptance-test-driven-development-2/)  
 [ATDD Lets Team Frequently Release Software](http://www.blog.acceptancetestdrivendevelopment.com/atdd-lets-team-frequently-release-software/)  
-[Acceptance test-driven development](https://www.pmi.org/learning/library/acceptance-test-driven-development-5966)  
-[Acceptance Test Driven Development](https://dzone.com/articles/acceptance-test-driven-development-closing-the-com)  
-[ATDD - Acceptance Test Driven Development](https://www.slideshare.net/nashjain/acceptance-test-driven-development-350264)  
-[Acceptance test driven development for web applications](https://www.javaworld.com/article/2078432/acceptance-test-driven-development-for-web-applications.html)  
+[Acceptance test-driven development 🡕](https://www.pmi.org/learning/library/acceptance-test-driven-development-5966)  
+[Acceptance Test Driven Development 🡕](https://dzone.com/articles/acceptance-test-driven-development-closing-the-com)  
+[ATDD - Acceptance Test Driven Development 🡕](https://www.slideshare.net/nashjain/acceptance-test-driven-development-350264)  
+[Acceptance test driven development for web applications 🡕](https://www.javaworld.com/article/2078432/acceptance-test-driven-development-for-web-applications.html)  
 
 #### Behaviour-driven development (BDD)
 
 > Specification by Example
 
-https://www.agilealliance.org/glossary/bdd/
+[Behavior-driven development 🡕](https://en.wikipedia.org/wiki/Behavior-driven_development) (BDD) is an Agile software development process that encourages collaboration among developers, QA and non-technical or business participants in a software project. It encourages teams to use conversation and concrete examples to formalize a shared understanding of how the application should behave. It emerged from test-driven development (TDD). Behavior-driven development combines the general techniques and principles of TDD with ideas from domain-driven design and object-oriented analysis and design to provide software development and management teams with shared tools and a shared process to collaborate on software development.
+
+The goal of BDD is a business readable and domain-specific language that allows you to describe a system’s behavior without explaining how that behavior is implemented.
+
+BDD is largely facilitated through the use of a simple domain-specific language (DSL) using natural-language constructs (e.g., English-like sentences) that can express the behaviour and the expected outcomes.
+
+BDD focuses on:
+
+- Where to start in the process
+- What to test and what not to test
+- How much to test in one go
+- What to call the tests
+- How to understand why a test fails
+
+At its heart, BDD is about rethinking the approach to unit testing and acceptance testing in order to avoid issues that naturally arise.
+
+**Title**
+
+> An explicit title.
+
+**Narrative**
+
+> A short introductory section with the following structure:  
+> As a: the person or role who will benefit from the feature;  
+> I want: the feature;  
+> so that: the benefit or value of the feature.  
+
+**Acceptance criteria**
+
+> A description of each specific scenario of the narrative with the following structure:  
+> Given: the initial context at the beginning of the scenario, in one or more clauses;  
+> when: the event that triggers the scenario;  
+> then: the expected outcome, in one or more clauses.  
+
+##### Further reading
+
+[Behavior Driven Development 🡕](https://www.toolsqa.com/cucumber/behavior-driven-development/)  
+[Your Boss Won't Appreciate TDD: Try This Behavior-Driven Development Example 🡕](https://www.toptal.com/freelance/your-boss-won-t-appreciate-tdd-try-bdd)  
+[Get Started With Behavior Driven Development 🡕](https://medium.com/@TechMagic/get-started-with-behavior-driven-development-ecdca40e827b)  
+[A few benefits you get by doing BDD 🡕](https://apiumhub.com/tech-blog-barcelona/behavior-driven-development/)  
+[Behavior-Driven Development 🡕](https://www.scaledagileframework.com/behavior-driven-development/)  
+[The beginner's guide to BDD (behaviour-driven development) 🡕](https://inviqa.com/blog/bdd-guide)  
+[Behavior-Driven Development: What is it and how do you use it? 🡕](https://airbrake.io/blog/software-design/behavior-driven-development)  
+[Behavior Driven Development 🡕](https://www.agilest.org/devops/behavior-driven-development/)  
+[Behaviour driven development: an introduction to BDD model 🡕](https://www.inviul.com/behaviour-driven-development/)  
+[Behavior-driven Development 🡕](https://semaphoreci.com/community/tutorials/behavior-driven-development)  
 
 #### Domain driven design (DDD)
 #### Plan-driven models
