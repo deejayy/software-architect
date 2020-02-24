@@ -8,7 +8,7 @@ Test-driven development (TDD) (Beck 2003; Astels 2003), is an evolutionary appro
 
 The steps of test first development (TFD) are overviewed in the UML activity diagram of Figure 1.  The first step is to quickly add a test, basically just enough code to fail.  Next you run your tests, often the complete test suite although for sake of speed you may decide to run only a subset, to ensure that the new test does in fact fail. You then update your functional code to make it pass the new tests. The fourth step is to run your tests again. If they fail you need to update your functional code and retest. Once the tests pass the next step is to start over (you may first need to refactor any duplication out of your design as needed, turning TFD into TDD).
 
-intro-tdd-01.jpg
+![](intro-tdd-01.jpg)
 
 I like to describe TDD with this simple formula:
 
@@ -25,13 +25,13 @@ There are two levels of TDD:
 
 Figure 2 depicts a UML activity diagram showing how ATDD and developer TDD fit together.  Ideally, you'll write a single acceptance test, then to implement the production code required to fulfill that test you'll take a developer TDD approach. This in turn requires you to iterate several times through the write a test, write production code, get it working cycle at the developer TDD level.
 
-intro-tdd-02.jpg
+![](intro-tdd-02.jpg)
 
 Note that Figure 2 assumes that you're doing both, although it is possible to do either one without the other. In fact, some teams will do developer TDD without doing ATDD, see survey results below, although if you're doing ATDD then it's pretty much certain you're also doing developer TDD. The challenge is that both forms of TDD require practitioners to have technical testing skills, skills that many requirement professionals often don't have (yet another reason why generalizing specialists are preferable to specialists).
 
 An underlying assumption of TDD is that you have a testing framework available to you. For acceptance TDD people will use tools such as Fitnesse or RSpec and for developer TDD agile software developers often use the xUnit family of open source tools, such as JUnit or VBUnit, although commercial tools are also viable options. Without such tools TDD is virtually impossible.  Figure 3 presents a UML state chart diagram for how people typically work with such tools. This diagram was suggested to me by Keith Ray.
 
-intro-tdd-03.jpg
+![](intro-tdd-03.jpg)
 
 Kent Beck, who popularized TDD in eXtreme Programming (XP) (Beck 2000), defines two simple rules for TDD (Beck 2003).  First, you should write new business code only when an automated test has failed. Second, you should eliminate any duplication that you find. Beck explains how these two simple rules generate complex individual and group behavior:
 
@@ -75,7 +75,7 @@ My guess is that in the near term database TDD, or perhaps Test Driven Database 
 
 TDD is very good at detailed specification and validation, but not so good at thinking through bigger issues such as the overall design, how people will use the system, or the UI design (for example). Modeling, or more to the point agile model-driven development (AMDD) (the lifecycle for which is captured in Figure 4) is better suited for this. AMDD addresses the agile scaling issues that TDD does not. 
 
-intro-tdd-04.gif
+![](intro-tdd-04.gif)
 
 Comparing TDD and AMDD:
 
@@ -156,13 +156,13 @@ This is partly true, although easy to overcome.  TDD scalability issues include:
 - Not all developers know how to test.  That's often true, so get them some appropriate training and get them pairing with people with unit testing skills. Anybody who complains about this issue more often than not seems to be looking for an excuse not to adopt TDD.
 - Everyone might not be taking a TDD approach.  Taking a TDD approach to development is something that everyone on the team needs to agree to do. If some people aren't doing so, then in order of preference: they either need to start, they need to be motivated to leave the team, or your team should give up on TDD.
 
-intro-tdd-05.jpg
+![](intro-tdd-05.jpg)
 
 ## 8. Who is Actually Doing This?
 
 Unfortunately the adoption rate of TDD isn't as high as I would hope.  Figure 6, which summarizes results from the 2010 How Agile Are You? survey, provides insight into which validation strategies are being followed by the teams claiming to be agile. I suspect that the adoption rates reported for developer TDD and acceptance TDD, 53% and 44% respectively, are much more realistic than those reported in my 2008 Test Driven Development (TDD) Survey.
 
-intro-tdd-06.jpg
+![](intro-tdd-06.jpg)
 
 ## 9. Summary
 
