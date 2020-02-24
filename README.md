@@ -394,7 +394,7 @@ Practitioners of enterprise architecture, enterprise architects, are responsible
 [Bridging the Gap Between Enterprise Architecture and Solution Architecture for Maximum Benefit](architecture/architect-roles/enterprise-architecture-bridging-ea-sa.md)  
 [Technical vs. solution vs. enterprise architecture: a matter of scale](architecture/architect-roles/technical-vs-solution-vs-enterprise-architecture-a-matter-of-scale.md)  
 [Following the Software Architecture Career Path](architecture/architect-roles/software-architecture-career-path.md)  
-[Architect Role Definitions 🡕](http://grahamberrisford.com/AM%201%20Methods/6PRODUCTSandTECHNIQUES/InitiationAndContext/AM%20203%20Some%20architecture%20role%20definitions%2030.pdf) ([local snapshot](snapshots/some-architecture-role-definitions.pdf))    
+[Architect Role Definitions 🡕](http://grahamberrisford.com/AM%201%20Methods/6PRODUCTSandTECHNIQUES/InitiationAndContext/AM%20203%20Some%20architecture%20role%20definitions%2030.pdf) ([local snapshot](snapshots/some-architecture-role-definitions.pdf))  
 [Aligning Enterprise, System, and Software Architectures 🡕](http://soadecisions.org/download/zimmermann_chap_mistrik_book.pdf) ([local snapshot](snapshots/zimmermann-chap-mistrik-book.pdf))  
 
 ### Everything driven development
@@ -437,7 +437,7 @@ Dummy, Stub, Spy, Mock, Simulator
 
 ##### Further reading
 
-[Introduction to Test Driven Development 🡕](http://www.agiledata.org/essays/tdd.html)  
+[Introduction to Test Driven Development](architecture/development-philosophies/intro-tdd.md)  
 [Test Driven Development (Scaled Agile) 🡕](https://www.scaledagileframework.com/test-driven-development/)  
 [Test Driven Development Tools and Agile Process 🡕](https://www.xenonstack.com/insights/what-is-test-driven-development/)  
 [TDD × ROI: Is Test-Driven Development worth the money? 🡕](https://medium.com/crowdbotics/tdd-roi-is-test-driven-development-worth-the-money-d535c8d5a5f)  
@@ -642,5 +642,5 @@ At its heart, BDD is about rethinking the approach to unit testing and acceptanc
 [Behavior-driven Development 🡕](https://semaphoreci.com/community/tutorials/behavior-driven-development)  
 
 #### Domain driven design (DDD)
-#### Plan-driven models
 #### Example driven development (EDD)
+#### Plan-driven models
