@@ -210,6 +210,7 @@ Designing Data-Intensive Applications: [Reliability](https://player.fm/series/co
 
 ### General software development
 
+- CBD https://en.wikipedia.org/wiki/Component-based_software_engineering
 - algorithmic complexity
 - antipatterns in software development
 - application state management
@@ -300,6 +301,8 @@ The Productive Programmer, Neal Ford [(local snapshot)](snapshots/the-productive
 ## Conferences
 
 [O’Reilly Software Architecture Conference 🡕](https://twitter.com/OReillySACon)  
+\#devdotnext2020
+\#LeadDevLondon
 
 ## People
 
@@ -332,10 +335,11 @@ https://blog.ndepend.com/code-quality-metrics-signal-noise/
 https://www.ndepend.com/docs/code-metrics  
 https://blog.ndepend.com/5-tips-help-visualize-code/  
 https://blog.ndepend.com/with-code-metrics-trends-are-king/  
-https://en.wikipedia.org/wiki/List_of_software_development_philosophies
-https://en.wikipedia.org/wiki/Software_development
-https://medium.com/globalluxsoft/5-popular-software-development-models-with-their-pros-and-cons-12a486b569dc
-https://www.mendix.com/blog/introducing-the-low-code-manifesto/
+https://en.wikipedia.org/wiki/List_of_software_development_philosophies  
+https://en.wikipedia.org/wiki/Software_development  
+https://medium.com/globalluxsoft/5-popular-software-development-models-with-their-pros-and-cons-12a486b569dc  
+https://www.mendix.com/blog/introducing-the-low-code-manifesto/  
+https://hackernoon.com/what-is-serverless-architecture-what-are-its-pros-and-cons-cc4b804022e9  
 
 ## One-liners: The architect ...
 
