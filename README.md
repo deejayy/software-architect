@@ -463,11 +463,11 @@ Without design driven development, it’s easy to build many bad experiences int
 
 ##### Further reading
 
+[Design Driven Development (Thoughtbot)](architecture/development-philosophies/ddd-thoughtbot.md)  
+[Design-driven development (UXMA)](architecture/development-philosophies/ddd-uxma.md)  
+[Design Driven Development (Mäd)](architecture/development-philosophies/ddd-mad.md)  
+[Design Driven Development (Slideshare) 🡕](https://www.slideshare.net/henrydjacob/design-driven-development/)  
 [How to Foster Design-Driven Development in Your Company 🡕](http://jesseddy.com/downloads/Design_Driven_Development.pdf), [(local snapshot)](snapshots/design-driven-development-jess-eddy.pdf)  
-[Design Driven Development (Thoughtbot) 🡕](https://thoughtbot.com/blog/design-driven-development)  
-[Design-driven development (UXMA) 🡕](https://uxma.com/en/services/designdriven-development.html)  
-[Design Driven Development (Mäd) 🡕](https://why.workwithmad.com/design-driven-development/)  
-[Design Driven Development (Slideshare) 🡕](https://www.slideshare.net/henrydjacob/design-driven-development/37)  
 
 #### Feature-driven development (FDD)
 
