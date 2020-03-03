@@ -340,6 +340,11 @@ https://en.wikipedia.org/wiki/Software_development
 https://medium.com/globalluxsoft/5-popular-software-development-models-with-their-pros-and-cons-12a486b569dc  
 https://www.mendix.com/blog/introducing-the-low-code-manifesto/  
 https://hackernoon.com/what-is-serverless-architecture-what-are-its-pros-and-cons-cc4b804022e9  
+https://getstream.io/blog/styled-components-vs-css-stylesheets/  
+https://blog.pragmaticengineer.com/software-architecture-is-overrated/  
+https://www.progression.fyi/  
+https://dzone.com/articles/10-years-of-important-technical-decisions-itds  
+https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html  
 
 ## One-liners: The architect ...
 
@@ -442,11 +447,11 @@ Dummy, Stub, Spy, Mock, Simulator
 ##### Further reading
 
 [Introduction to Test Driven Development](architecture/development-philosophies/intro-tdd.md)  
-[Test Driven Development (Scaled Agile) 🡕](https://www.scaledagileframework.com/test-driven-development/)  
-[Test Driven Development Tools and Agile Process 🡕](https://www.xenonstack.com/insights/what-is-test-driven-development/)  
-[TDD × ROI: Is Test-Driven Development worth the money? 🡕](https://medium.com/crowdbotics/tdd-roi-is-test-driven-development-worth-the-money-d535c8d5a5f)  
-[Test Driven Development: what it is, and what it is not 🡕](https://www.freecodecamp.org/news/test-driven-development-what-it-is-and-what-it-is-not-41fa6bca02a2/)  
-[Test-driven development (IBM) 🡕](https://www.ibm.com/garage/method/practices/code/practice_test_driven_development/)  
+[Test Driven Development (Scaled Agile)](architecture/development-philosophies/tdd-scaled-agile.md)  
+[Test Driven Development Tools and Agile Process](architecture/development-philosophies/tdd-and-agile.md)  
+[TDD × ROI: Is Test-Driven Development worth the money?](architecture/development-philosophies/tdd-x-roi.md)  
+[Test Driven Development: what it is, and what it is not](architecture/development-philosophies/tdd-what-is.md)  
+[Test-driven development (IBM)](architecture/development-philosophies/tdd-practice.md)  
 
 #### Design-driven development (DDD)
 
