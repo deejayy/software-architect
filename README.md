@@ -103,6 +103,7 @@ Designing Data-Intensive Applications: [Reliability](https://player.fm/series/co
 - everything driven development
 - caching techniques, tools and cache invalidation
 - chaos engineering
+- antifragile architecture
 - distributed (systems | databases | coordination)
 - documenting architecture
 - fault tolerance and error handling
@@ -147,7 +148,7 @@ Designing Data-Intensive Applications: [Reliability](https://player.fm/series/co
 
 ### Security
 
-- authentication
+- authentication, SSO, OAuth, 2FA
 - checkmarx, osa, sast
 - devsecops
 - encryption
@@ -297,6 +298,7 @@ The ThoughtWorks Anthology, Volume 2, Neal Ford
 97 Things Every Programmer Should Know, Neal Ford  
 97 Things Every Software Architect Should Know, Neal Ford  
 The Productive Programmer, Neal Ford [(local snapshot)](snapshots/the-productive-programmer-by-neal-ford.pdf)  
+Fooled by randomness  
 
 ## Conferences
 
@@ -345,6 +347,7 @@ https://blog.pragmaticengineer.com/software-architecture-is-overrated/
 https://www.progression.fyi/  
 https://dzone.com/articles/10-years-of-important-technical-decisions-itds  
 https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html  
+https://uxstudioteam.com/ux-blog/ux-team-structure/  
 
 ## One-liners: The architect ...
 
