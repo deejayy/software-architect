@@ -101,6 +101,7 @@ Designing Data-Intensive Applications: [Reliability](https://player.fm/series/co
 ## Ideas, technologies, seeds for a google search
 
 - everything driven development
+- Hammock Driven Development
 - caching techniques, tools and cache invalidation
 - chaos engineering
 - antifragile architecture
@@ -348,6 +349,20 @@ https://www.progression.fyi/
 https://dzone.com/articles/10-years-of-important-technical-decisions-itds  
 https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html  
 https://uxstudioteam.com/ux-blog/ux-team-structure/  
+https://pythonspeed.com/articles/dont-need-kubernetes/  
+http://strlen.com/treesheets/  
+https://futureofcoding.org/notes/paval-bazant-5-21-19.html  
+https://melsatar.blog/2017/04/29/architectural-design-decisions/  
+https://github.com/elsewhencode/project-guidelines  
+https://github.com/ryanmcdermott/clean-code-javascript  
+https://leadership-library.dev/The-Leadership-Library-for-Engineers-c3a6bf9482a74fffa5b8c0e85ea5014a  
+https://atomicdesign.bradfrost.com/chapter-5/  
+https://adr.github.io/  
+https://github.com/donnemartin/system-design-primer  
+https://github.com/kamranahmedse/developer-roadmap  
+https://github.com/futurice/backend-best-practices  
+https://8thlight.com/blog/stephen-prater/2020/09/15/values-rules-break.html  
+https://12factor.net/  
 
 ## One-liners: The architect ...
 
