@@ -542,7 +542,6 @@ It is usually applicable to Large-scale projects.
 [What is Feature Driven Development?](architecture/development-philosophies/fdd-wise.md)  
 [Not Everything Needs to Be a User Story: Using FDD Features](architecture/development-philosophies/fdd-goat.md)  
 [Major Seminar On Feature Driven Development (PDF) 🡕](https://csis.pace.edu/~marchese/CS616/Agile/FDD/fdd.pdf), [(snapshot)](architecture/development-philosophies/fdd.pdf)  
-
 [Feature Driven Development 🡕](http://www.featuredrivendevelopment.com/)  
 
 #### Model-driven development (MDD)
@@ -572,9 +571,12 @@ There are two core concepts associated with model-driven development: abstractio
 
 ##### Further reading
 
-[15 reasons why you should start using Model Driven Development 🡕](http://www.theenterprisearchitect.eu/blog/2009/11/25/15-reasons-why-you-should-start-using-model-driven-development/)  
+[15 reasons why you should start using Model Driven Development](architecture/development-philosophies/mdd-entarch.md)  
+[8 reasons why Model-Driven Development is dangerous](architecture/development-philosophies/mdd-entarch2.md)  
+[Model Driven Development Misperceptions and Challenges](architecture/development-philosophies/mdd-infoq.md)  
+[10 Misperceptions and challenges of Model Driven Development](architecture/development-philosophies/mdd-entarch3.md)  
+[8 Reasons Why Model-Driven Approaches (will) Fail](architecture/development-philosophies/mdd-infoq2.md)  
 [5 types of Model Driven Software Development 🡕](http://www.theenterprisearchitect.eu/blog/2009/03/31/5-types-of-model-driven-software-development)  
-[8 reasons why Model-Driven Development is dangerous 🡕](http://www.theenterprisearchitect.eu/blog/2009/06/25/8-reasons-why-model-driven-development-is-dangerous/)  
 [What is Model Driven Development (MDD)? 🡕](https://www.mendix.com/model-driven-development/)  
 [Model Driven Development Vs Test Driven Development Computer Science Essay 🡕](https://www.ukessays.com/essays/computer-science/model-driven-development-vs-test-driven-development-computer-science-essay.php)  
 [ModelDrivenSoftwareDevelopment 🡕](https://www.martinfowler.com/bliki/ModelDrivenSoftwareDevelopment.html)  
