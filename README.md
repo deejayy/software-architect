@@ -363,6 +363,7 @@ https://github.com/kamranahmedse/developer-roadmap
 https://github.com/futurice/backend-best-practices  
 https://8thlight.com/blog/stephen-prater/2020/09/15/values-rules-break.html  
 https://12factor.net/  
+[What is extreme programming 🡕](https://www.productplan.com/what-is-extreme-programming/)
 
 ## One-liners: The architect ...
 
@@ -535,14 +536,12 @@ It is usually applicable to Large-scale projects.
 [Feature Driven Development](architecture/development-philosophies/fdd-acol.md)  
 [FDD: It's processes & comparison to other agile methodologies](architecture/development-philosophies/fdd-apium.md)  
 [9 Things You Must Know About FDD – Feature Driven Development](architecture/development-philosophies/fdd-openxcell.md)  
-[Feature-Driven Development: An Agile Alternative to Extreme Programming 🡕](https://www.cmcrossroads.com/article/feature-driven-development-agile-alternative-extreme-programming)  
-[What is expreme programming 🡕](https://www.productplan.com/what-is-extreme-programming/)
-[Feature-Driven Development: Best Practices 🡕](http://www.informit.com/articles/article.aspx?p=26059)  
-[A Practical example of Feature Driven Development 🡕](http://www.mike-dixon.com/2012/01/24/a-practical-example-of-feature-driven-development/)  
-[What is Feature Driven Development? 🡕](https://www.wisegeek.com/what-is-feature-driven-development.htm)  
-[Not Everything Needs to Be a User Story: Using FDD Features 🡕](https://www.mountaingoatsoftware.com/blog/not-everything-needs-to-be-a-user-story-using-fdd-features)  
-[Feature Driven Development (FDD) Processes and Comparison To Other Agile Methodologies 🡕](https://www.upwork.com/hiring/for-clients/agile-methodologies/)  
-[Major Seminar On Feature Driven Development 🡕](https://csis.pace.edu/~marchese/CS616/Agile/FDD/fdd.pdf), [(snapshot)](architecture/development-philosophies/fdd.pdf)  
+[Feature-Driven Development: An Agile Alternative to Extreme Programming](architecture/development-philosophies/fdd-cmcr.md)  
+[Feature-Driven Development: Best Practices](architecture/development-philosophies/fdd-informit.md)  
+[A Practical example of Feature Driven Development](architecture/development-philosophies/fdd-mike.md)  
+[What is Feature Driven Development?](architecture/development-philosophies/fdd-wise.md)  
+[Not Everything Needs to Be a User Story: Using FDD Features](architecture/development-philosophies/fdd-goat.md)  
+[Major Seminar On Feature Driven Development (PDF) 🡕](https://csis.pace.edu/~marchese/CS616/Agile/FDD/fdd.pdf), [(snapshot)](architecture/development-philosophies/fdd.pdf)  
 
 [Feature Driven Development 🡕](http://www.featuredrivendevelopment.com/)  
 
