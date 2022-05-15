@@ -363,7 +363,8 @@ https://github.com/kamranahmedse/developer-roadmap
 https://github.com/futurice/backend-best-practices  
 https://8thlight.com/blog/stephen-prater/2020/09/15/values-rules-break.html  
 https://12factor.net/  
-[What is extreme programming 🡕](https://www.productplan.com/what-is-extreme-programming/)
+[What is extreme programming 🡕](https://www.productplan.com/what-is-extreme-programming/)  
+https://doriantaylor.com/the-specificity-gradient  
 
 ## One-liners: The architect ...
 
@@ -576,14 +577,15 @@ There are two core concepts associated with model-driven development: abstractio
 [Model Driven Development Misperceptions and Challenges](architecture/development-philosophies/mdd-infoq.md)  
 [10 Misperceptions and challenges of Model Driven Development](architecture/development-philosophies/mdd-entarch3.md)  
 [8 Reasons Why Model-Driven Approaches (will) Fail](architecture/development-philosophies/mdd-infoq2.md)  
-[5 types of Model Driven Software Development 🡕](http://www.theenterprisearchitect.eu/blog/2009/03/31/5-types-of-model-driven-software-development)  
-[What is Model Driven Development (MDD)? 🡕](https://www.mendix.com/model-driven-development/)  
-[Model Driven Development Vs Test Driven Development Computer Science Essay 🡕](https://www.ukessays.com/essays/computer-science/model-driven-development-vs-test-driven-development-computer-science-essay.php)  
-[ModelDrivenSoftwareDevelopment 🡕](https://www.martinfowler.com/bliki/ModelDrivenSoftwareDevelopment.html)  
-[Agile Model Driven Development (AMDD): The Key to Scaling Agile Software Development 🡕](http://www.agilemodeling.com/essays/amdd.htm)  
-[Low-Code Principle #1: Model-Driven Development, The Most Important Concept in Low-Code 🡕](https://www.mendix.com/blog/low-code-principle-1-model-driven-development/)  
-[Model-Driven-Development (part 1) — RAD, BPMS and Low-Code Development Platforms 🡕](https://blog.gds-gov.tech/model-driven-development-part-1-rad-bpms-low-code-development-platform-etc-287060722058)  
+[5 types of Model Driven Software Development](architecture/development-philosophies/mdd-entarch4.md)  
+[Model Driven Development Vs Test Driven Development Computer Science Essay](architecture/development-philosophies/mdd-ukess.md)  
+[ModelDrivenSoftwareDevelopment](architecture/development-philosophies/mdd-fowler.md)  
+[Agile Model Driven Development (AMDD): The Key to Scaling Agile Software Development](architecture/development-philosophies/mdd-amdd.md)  
+[Low-Code Principle #1: Model-Driven Development, The Most Important Concept in Low-Code](architecture/development-philosophies/mdd-mendix.md)  
+[Model-Driven-Development (part 1) — RAD, BPMS and Low-Code Development Platforms](architecture/development-philosophies/mdd-gds.md)  
+[Model-Driven-Development (part 2) — Pitfalls and Recommendations](architecture/development-philosophies/mdd-gds2.md)  
 [The Pragmatics of Model-Driven Development 🡕](https://www.state-machine.com/doc/Selic-Pragmatics.pdf), [(snapshot)](architecture/development-philosophies/mdd-pragmatics.pdf)
+[MDA @ Object Management Group 🡕](https://www.omg.org/mda/)
 
 #### Acceptance test– driven development (ATDD)
 
