@@ -82,7 +82,7 @@ Oh, I almost forget: do contribute, I have a lot of things to learn (eg. proper 
 [9: Architecture, Patterns and Design](https://player.fm/series/series-1401837/9-david-heinemeier-hansson-architecture-patterns-and-design)  
 [5: Jobs-to-be-Done and Product Design](https://player.fm/series/series-1401837/5-ryan-singer-jobs-to-be-done-and-product-design)  
 Designing Data-Intensive Applications: [Reliability](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/designing-data-intensive-applications-reliability), [Scalability](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/designing-data-intensive-applications-scalability), [Maintainability](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/designing-data-intensive-applications-maintainability), Data models: [Relational vs Document](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/designing-data-intensive-applications-data-models-relational-vs-document), [Relationships](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/designing-data-intensive-applications-data-models-relationships), [Query Languages](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/designing-data-intensive-applications-data-models-query-languages)  
-[The Pragmatic Programmer – Investing in Your Knowledge Portfolio](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/the-pragmatic-programmer-philosophy)  
+[The Pragmatic Programmer - Investing in Your Knowledge Portfolio](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/the-pragmatic-programmer-philosophy)  
 [What Should You Learn Next?](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/ep-101-what-should-you-learn-next)  
 [Tackling Tough Developer Questions](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/ep-100-tackling-tough-developer-questions)  
 [How to Learn Programming Skills](https://player.fm/series/coding-blocks-software-and-web-programming-security-best-practices-microsoft-net/ep-91-how-to-learn-programming-skills)  
@@ -536,7 +536,7 @@ It is usually applicable to Large-scale projects.
 [Feature Driven Development: A Guide](architecture/development-philosophies/fdd-arrk.md)  
 [Feature Driven Development](architecture/development-philosophies/fdd-acol.md)  
 [FDD: It's processes & comparison to other agile methodologies](architecture/development-philosophies/fdd-apium.md)  
-[9 Things You Must Know About FDD – Feature Driven Development](architecture/development-philosophies/fdd-openxcell.md)  
+[9 Things You Must Know About FDD - Feature Driven Development](architecture/development-philosophies/fdd-openxcell.md)  
 [Feature-Driven Development: An Agile Alternative to Extreme Programming](architecture/development-philosophies/fdd-cmcr.md)  
 [Feature-Driven Development: Best Practices](architecture/development-philosophies/fdd-informit.md)  
 [A Practical example of Feature Driven Development](architecture/development-philosophies/fdd-mike.md)  
@@ -584,14 +584,14 @@ There are two core concepts associated with model-driven development: abstractio
 [Low-Code Principle #1: Model-Driven Development, The Most Important Concept in Low-Code](architecture/development-philosophies/mdd-mendix.md)  
 [Model-Driven-Development (part 1) — RAD, BPMS and Low-Code Development Platforms](architecture/development-philosophies/mdd-gds.md)  
 [Model-Driven-Development (part 2) — Pitfalls and Recommendations](architecture/development-philosophies/mdd-gds2.md)  
-[The Pragmatics of Model-Driven Development 🡕](https://www.state-machine.com/doc/Selic-Pragmatics.pdf), [(snapshot)](architecture/development-philosophies/mdd-pragmatics.pdf)
+[The Pragmatics of Model-Driven Development 🡕](https://www.state-machine.com/doc/Selic-Pragmatics.pdf), [(snapshot)](architecture/development-philosophies/mdd-pragmatics.pdf)  
 [MDA @ Object Management Group 🡕](https://www.omg.org/mda/)
 
-#### Acceptance test– driven development (ATDD)
+#### Acceptance test driven development (ATDD)
 
-[Acceptance test–driven development 🡕](https://en.wikipedia.org/wiki/Acceptance_test%E2%80%93driven_development) (ATDD) is a development methodology based on communication between the business customers, the developers, and the testers. All these processes aid developers and testers in understanding the customer's needs prior to implementation and allow customers to be able to converse in their own domain language.
+[Acceptance test driven development 🡕](https://en.wikipedia.org/wiki/Acceptance_test%E2%80%93driven_development) (ATDD) is a development methodology based on communication between the business customers, the developers, and the testers. All these processes aid developers and testers in understanding the customer's needs prior to implementation and allow customers to be able to converse in their own domain language.
 
-Acceptance tests are from the user's point of view – the external view of the system.
+Acceptance tests are from the user's point of view - the external view of the system.
 
 Analogous to test-driven development, Acceptance Test Driven Development (ATDD) involves team members with different perspectives (customer, development, testing) collaborating to write acceptance tests in advance of implementing the corresponding functionality.  The collaborative discussions that occur to generate the acceptance test is often referred to as the three amigos, representing the three perspectives of customer (what problem are we trying to solve?), development (how might we solve this problem?), and testing (what about…).
 
